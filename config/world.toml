@@ -27,6 +27,11 @@ provider_threshold = 0.88      # token-set similarity on folded names
 media_threshold = 0.9
 canonical_spelling_share = 0.5
 
+[analysts]
+missed_match = 0.004           # a true match recorded as a false positive
+false_match = 0.01
+unsure_adverse = 0.3           # an unattributable article recorded as adverse
+
 [media]
 adverse_customer_share = 0.04  # customers with adverse news about them
 namesake_articles_per_name = [0, 3]
@@ -36,7 +41,8 @@ injection_share = 0.06
 years_back = 9
 
 # Four customers of the platform. The fourth is held out entirely: the template is never built or tuned on
-# its data, and it is activated only through the activation pipeline, from its data dictionary.
+# its data. It is activated only through the activation pipeline (its dictionary, policy and months 1-6 of
+# analyst decisions), in the single held-out run, and measured on months 7-8.
 [[tenants]]
 id = "finvia"
 kind = "neobank"

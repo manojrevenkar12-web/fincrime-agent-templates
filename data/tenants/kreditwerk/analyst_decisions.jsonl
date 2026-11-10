@@ -1,0 +1,1987 @@
+{"kind": "media", "id": "kreditwerk-01-0001|Jonas Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0001|Lucas Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0002|Martin Mayer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0003-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0003|Martin Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0003|Frank Richter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0004-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0004-A2", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-01-0004-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0004|Miriam Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0004|Ayse Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0004|Martin Scholz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0005-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0005-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0005|Sabine Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0005|Miriam Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0005|Claudia Schmitt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0006-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0006|Monika Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0006|Jana Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0006|Marcus Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0007|Anton Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0007|Vadim Novikov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0008-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0008|Julia König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0008|Volkan Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0008|Ovidiu Popa", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0009-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0009|Mustafa Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0010-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0010|Marina Fedorova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0010|Birgit Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0010|Radu Florea", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0011-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0011-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0011-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0011|Tolga Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0011|Oleg Grigoriev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0012|Yousef Salih", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0013-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0013-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0013|Jürgen Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0013|Radu Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0013|Matthias Schultz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0014-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0014-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0014-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0014|Holger Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0014|Markus Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0014|Michael Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0015-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0015|Iryna Bondarenko", "decision": "adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0016-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0016-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0016-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0016|Markus Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0017-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0017-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0017-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0017|Lena Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0017|Moritz Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0017|Hiba Naser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0018|Jan Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0018|Ziad Tamimi", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0018|Lukas Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0019-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0019|Petra Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0019|Dan Neagu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0019|Tolga Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0020-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0020|Thomas Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0020|Mohamed Jaber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0021-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0021|Huda Rizk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0022-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0022-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0022-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0022|Iryna Fyodorova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0022|Frank Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0022|Mehmed Kılıç", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0023-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0023-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0023-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0023-A4", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0023|Mona Farouk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0023|Jonas Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0023|Svetlana Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0024|Roman Morosow", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0024|Jürgen Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0025|Kemal Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0026-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-01-0026-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0026-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0026|Matthias Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0026|Maryam Najjar", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0027|Michael Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0027|Claudia Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0028-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0028|Kareem Salih", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0028|Nicole Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0028|Bassam Nassif", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0029-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0029-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0029-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0029|Ayşe Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0029|Ute Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0029|Jana Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0030-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0030-A2", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-01-0030-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0030|Paula Martínez", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0030|Tolga Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0030|Tim Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0031-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0031|Burak Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0032-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0032-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0032|Lena Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0032|Gabriela Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0032|Kai Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0033-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0033|Mykola Kozlov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0034-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0034-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0034|Faisal Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0034|Markus Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0035-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0035|Daniel Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0036-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0036|Elena Nistor", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0037-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0037-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0037|Burak Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0037|Yusuf Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0038-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0038-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0038|Daniel Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0038|Raluca Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0038|Hakan Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0039-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0039-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0039|Jonas Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0039|Matthias Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0039|Andrei Zhukov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0040-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0040-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0040-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0040|Ali Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0040|Jonas Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0041-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0041-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0041|Anna Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0042-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0042-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0042|Gheorghe Florea", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0043-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0043-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0043|Maria Ilie", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0044|Kai Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0045-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0045-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0045|Andrei Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0046|Jonas Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0046|Valentin Constantin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0047-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0047|Gheorghe Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0047|Timur Oliynyk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0048-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0048-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0048|Daniel Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0048|Murat Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0049|Sebastian Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0050-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0050|Tobias Schultz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0051-A7", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0051|Christian Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0051|Thomas Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0052-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0052-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0052-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0052|Florian Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0052|Daniel Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0053-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0053|Marcus Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0054-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0054|George Popa", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0054|Lukas Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0055-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0055-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0055|Deniz Yılmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0055|Florian Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0056-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0056-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0056|Daniel Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0056|Sarah Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0056|Ziad Jarrah", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0057-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0057-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0057-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0057|Tatiana Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0057|Ekaterina Pavlenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0058-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0058-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0058-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0058|Gül Kurt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0059-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0059-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0059|Ali Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0059|Nicole Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0059|Huseyin Öztürk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0060-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-01-0060-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0060|Cristian Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0061|Jan Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0061|Gennady Iwanow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0062-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0062|Dirk Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0062|Martin Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0063-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0063|Ali Mansur", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0063|Holger Wolf", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0064-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0064|Kemal Öztürk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0065-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0065-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0065|Roman Kovalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0065|Ute Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0066-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0066-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0066-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0066|Bassam Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0066|Monika Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0066|Anna Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0067-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0067|Emir Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0067|Tetiana Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0067|Florian Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0068-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0068|Yasemin Celik", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0068|Jana Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0068|Holger Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0069-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0069|Khalid Mansour", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0069|Noor Al-Masri", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0069|Hussein Jarrah", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0070-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0070|Stephan Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0071|Jan Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0071|Ute Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0072|Gabriela Rusu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0073-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0073|Valentina Kozlova", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0074-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0074-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0074|Stefan Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0074|Julia Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0074|Felix Mueller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0075-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0075-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0075-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0075|Sabine Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0075|Stefanie Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0076|Gül Yıldız", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0077-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0077-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0077-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0077|Stephan Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0077|Susanne Maier", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0077|Miriam Scholz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0078-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0078-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0078|Kai Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0078|Viktor Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0078|Larisa Kovalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0079|Thomas Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0079|Felix Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0080-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0080-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-01-0080|Kai Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0080|Andreas Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0080|Oleg Kowalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0081-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0081-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0081|Lucian Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0082|Lina Al Masri", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0082|Stefanie Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0083-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0083-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0083-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0083-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0083|Jana Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0083|Martin Richter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0084-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0084-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0084|Can Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0084|Laura Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0085-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0085-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0085-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0085|Holger Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0085|Andreas Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0085|Felix Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0086-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-01-0086-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0086|Stefanie Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0086|Ahmet Sahin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0086|Claudia Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0087|Matthias Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0087|Andrei Dinu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0088-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0088|Yusuf Yılmaz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-01-0089-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-01-0089|Kai Fuchs", "decision": "adverse"}
+{"kind": "media", "id": "kreditwerk-01-0089|Florin Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0089|Ayşe Bulut", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-01-0090|Markus Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0001-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0001-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0001-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0001|Jan Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0001|Monika Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0001|Stefanie Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0002-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0002-A2", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-02-0002-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0002|Sameer Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0002|Matthias Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0002|Gabriela Radu", "decision": "adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0003-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0003-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0003-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0003|Adnan Mansour", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0003|Yusuf Bulut", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0004-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0004-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0004|Anton Frolov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0004|Lina Kanaan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0004|Daniel Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0005-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0005-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0005|Murat Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0005|Ebru Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0006-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0006|Petra Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0007-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0007-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0007|Monika Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0007|Florian Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0007|Mykhailo Frolov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0008-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0008-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0008-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0008-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0008|Mariam Rahmen", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0009-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0009|Anastasia Tkachenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0009|Christian Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0010-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0010|Can Kurt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0011-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0011-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0011-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0011|Raluca Popescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0012-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0012|Tolga Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0012|Christian Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0013|Gabriel Matei", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0013|Daniel Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0013|Yasemin Keskin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0014-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0014|Jamal Rizk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0014|Uwe Mayer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0014|Kai Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0015-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0015|Christian Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0016-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0016|Ute Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0017|Claudia Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0018-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0018|Claudia Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0019|Kai Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0019|Jan Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0019|Matthias Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0020-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0020-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0020|Diana Marin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0021-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0021-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0021-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0021|Denis Stepanov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0021|Jana Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0022-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0022|Anna Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0022|Ludmila Vasilieva", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0023-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0023|Michael Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0023|Boris Klimenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0023|Ute Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0024-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0024|Ayse Oeztuerk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0025-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0025|Uwe Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0025|Jürgen Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0026-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0026-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0026-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0026-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0026-A5", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0026|Sorin Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0026|Thomas Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0026|Monika Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0027-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0027-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0027|Gabriela Nistor", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0027|Yulia Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0027|Mehmed Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0028-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0028-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0028|Florin Barbu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0029-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0029|Volkan Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0029|Ayse Öztürk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0030-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0030-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0030-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0030-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0030|Holger Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0030|Nabil Fakhoury", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0031|Gül Sahin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0032-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0032-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0032-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0032|Daniel Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0032|Yuri Fjodorow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0033-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0033|Dirk Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0034-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0034-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0034-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0034|Leonid Gusev", "decision": "adverse"}
+{"kind": "media", "id": "kreditwerk-02-0034|Nicole Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0035-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0035-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0035-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0035|Claudia Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0035|Stefanie Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0035|Yulia Fyodorova", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0036-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0036-A2", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-02-0036-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0036|Sebastian Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0036|Frank Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0036|Hiba Darwish", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0037-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0037-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0037|Kathrin Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0038-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0038-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0038|Cristina Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0038|Birgit Meyer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A7", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0039-A8", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0039|Yusuf Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0039|Thomas Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0039|Petra Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0040-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0040|Mona Obeid", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0040|Gennady Lebedev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0040|Ayşe Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0041-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0041-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0041|Stefan Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0042-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-02-0042-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0042|Michael Muller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0042|Stefanie Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0042|Hamza Zaher", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0043-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0043-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0043-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0043|Birgit Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0043|Lena Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0043|Tolga Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0044-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0044-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0044-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0044-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0044|Aylin Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0044|Sebastian Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0045|Lucas Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0045|Nicole Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0046-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0046|Dirk Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0047-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0047-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0047-A3", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-02-0047-A4", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0047|Cristina Constantin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0047|George Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0047|Buse Koç", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0048-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0048-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0048|Yusuf Celik", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0048|Tobias Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0048|Dan Popa", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0049|Selin Aslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0050-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0050-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0050-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0050-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0050-A5", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0050|Serhiy Zhukov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0050|Stephan Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0050|Felix Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0051|Florin Stan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0052-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0052-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0052|Pınar Bulut", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0053-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0053|Tatiana Vasilieva", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0053|Claudia Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0053|Laura Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0054-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0054|Moritz Hofmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0054|Sorin Moldovan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0055-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0055|Marcus Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0055|Jan Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0055|Uwe Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0056-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0056|Ute Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0057-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0057-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0057|Gül Özdemir", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0057|Valentina Kowalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0058-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0058|Murat Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0058|Sorin Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0058|Mohammed Al-Masri", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0059|Nicole Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0059|Ahmet Doğan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0060-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0060-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0060-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0060|Oleksandr Grigoriev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0060|Christian Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0061-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0061|Boris Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0061|Claudia Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0061|Holger Schmid", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0062-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0062-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0062-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0062|Martin Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0063-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0063-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0063|Lucas König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0064|Ioan Toma", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0064|Andreas Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0064|Florian Fuchs", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0065-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0065-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0065|Holger Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0065|Felix Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0065|Tim Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0066-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0066-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0066-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0066|Jan Krüger", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0067-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0067-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0067|Fatimah Ghanem", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0067|Daniel Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0067|Stefanie Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0068-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0068-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0068|Frank Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0069-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0069-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0069|Huda Qasim", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0069|Vera Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0069|Daniel Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0070|Deniz Sahin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0070|Kai Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0071-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0071-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0071-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0071-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0071-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0071-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0071|Mihai Rusu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0071|Murat Aslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0072-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0072-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0072-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0072|Ebru Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0073-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0073-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0073|Hüseyin Ozturk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0073|Yousef Rahmen", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0073|Jana Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0074|Sorin Ilie", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0075-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0075-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0075-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0075-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0075|Bilal Dabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0075|Moritz Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0075|Ahmet Öztürk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0076-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0076-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0076-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0076-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0076|Oğuz Şahin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0077-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0077|Galina Klimenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0078-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0078|Hüseyin Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0079-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0079-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0079|Michael Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0079|Pawel Kuznetsov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0080-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0080|Lukas Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0081-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0081-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0081|Tolga Yıldız", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0082-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0082-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0082|Jan Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0083-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0083|Lena Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0083|Tim Krüger", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0084-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0084-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-02-0084|Sarah Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0084|Manuel Vargas", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0084|Kathrin Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0085-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0085-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0085|Birgit Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0085|Birgit Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0085|Felix Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0086|Julia Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0087-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-02-0087-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0087|Emre Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0087|Jana Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0088-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0088|Nikolai Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0088|Alina Gheorghiu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0089-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0089|Moritz Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-02-0089|Kai Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-02-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-02-0090|Jan Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0001-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0001|Jan Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0001|Kemal Aktaş", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0002-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0002|Moritz Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0002|Florian Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0002|Salma Salih", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0003-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0003-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0003|Laura Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0004|Valentin Cristea", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0005-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0005|Tobias Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0006-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0006-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0006-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0006-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0006|Boris Kuznetsow", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0006|Sebastian Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0006|Viktor Sevcenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0007-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0007|Jürgen Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0008-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0008-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0008|Oğuz Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0008|Nour Rizk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0009-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0009|Frank Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0009|Volkan Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0009|Susanne Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0010-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0010-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0010|Stefanie Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0010|Sameer Chami", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0011-A7", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-03-0011|Murat Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0011|Raluca Ciobanu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0011|Murat Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0012|Claudia Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0012|Monika Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0012|Matthias Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0013-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0013-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0013|Sebastian Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0013|Marcus Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0014-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0014|Daniel Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0014|Katrin Lehmann", "decision": "adverse"}
+{"kind": "media", "id": "kreditwerk-03-0014|Marcus Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0015|Murat Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0015|Tim Mayer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0016-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0016|Jana Koch", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0017-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-03-0017-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0017|Michael Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0017|Stephan Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0018-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0018|Matthias Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0018|Oğuz Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0018|Tolga Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0019-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0019-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0019|Petra Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0019|Mihai Barbu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0020-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0020-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0020|Christian Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0020|Tobias Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0020|Jürgen Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0021-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0021-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0021-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0021-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0021|Stefanie König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0021|Ksenia Kovalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0022-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0022-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0022|Jürgen Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0022|Jürgen Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0023-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0023-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0023|Kai Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0023|Burak Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0023|Jana Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0024-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0024|Anastasia Polishchuka", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0025-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0025|Lucas Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0026-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0026-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-03-0026|Nikolai Ivanov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0026|Tim Schmitt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0027-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0027-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0027-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0027|Lucas Mayer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0027|Pınar Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0028-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0028-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0028|Lucian Stoica", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0028|Sebastian Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0028|Nicole Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0029-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0029|Emre Çetin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0030-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0030-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0030-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0030-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0030-A5", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0030|Florin Florea", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0031-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0031|Martin Schmitt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0031|Monika Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0031|Florin Gheorghiu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0032-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0032-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0032-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0032-A4", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-03-0032-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0032-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0032|Denis Sorokin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0032|Simona Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0032|Holger Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0033-A7", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0033|Moritz Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0034-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0034-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0034|Frank Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0034|Sergey Yakovlev", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0035-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0035-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0035-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0035|Lucas Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0035|Tim Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0035|Pavel Petrov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0036-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0036|Mihaela Ciobanu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0037-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0037|Pınar Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0037|Hussein Khuri", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0038-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0038-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0038-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0038|Jana Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0038|Roman Sorokin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0038|Florian Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0039-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0039-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0039-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0039|Markus Muller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0039|Tolga Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0039|Katrin Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0040|Marcus König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0040|Pınar Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0041-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0041|Vladimir Lebedev", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0042-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0042-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0042|Ute Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0042|Sarah Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0042|Ahmet Kılıç", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0043-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0043-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0043-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0043|Majid Nasser", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0044-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0044|Jana Meier", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0045|Tobias Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0045|Andreas Hofmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0046|Claudia Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0046|Faisal Khuri", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0046|Ahmed Nasir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0047-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-03-0047|Sebastian Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0047|Buse Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0047|Jana Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0048-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0048|Matthias Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0048|Buse Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0048|Denis Pavlenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0049-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0049|Deniz Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0050|Dirk Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0051-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0051-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0051|Thomas Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0051|Andreas Schultz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0051|Selin Öztürk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0052|Rami Saleh", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0052|Viktor Melnyk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0053-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0053-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0053-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0053-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0053-A5", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0053|Jürgen Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0054-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0054-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0054-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0054|Daniela Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0054|Stephan Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0054|Florin Radu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0055|Kemal Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0055|Majid Alhassan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0055|Hussein Maalouf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0056|Katrin Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0056|Sabine Wolf", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0057-A7", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0057|Lena Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0057|Gabriel Barbu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0058-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0058-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0058-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0058|Aylin Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0059-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0059-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0059|Miriam Meyer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0060-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0060-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0060-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0060-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0060|Dirk Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0060|Petra Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0061-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0061-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0061|Gennady Belov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0061|Gennady Vasiliev", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0062-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0062-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0062-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0062-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0062|Gül Aslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0063-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0063|Artem Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0063|Marina Volkova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0063|Daniel Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0064|Laura Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0065-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0065-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0065-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0065|Matthias Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0065|Galina Volkova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0065|Jana Meier", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0066-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-03-0066|Mohammed Hamoud", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0066|Alina Tudor", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0066|Daniel Wagner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0067-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0067-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0067|Thomas Scholz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0068-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0068-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0068|Hakan Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0068|Lena Meier", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0068|Pawel Tkachenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0069-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0069-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0069|Frank Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0069|Umar Khalil", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0069|Volkan Kara", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0070-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-03-0070-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0070|Matthias Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0071-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0071|Karim Zein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0071|Uwe Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0071|Miriam Hofmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0072-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0072-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0072-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0072|Felix Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0072|Stefan Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0073|Martin Krueger", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0074-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0074|Ayşe Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0074|Stefanie Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0075-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0075|Umar Dabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0076|Sabine König", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0077-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0077-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0077-A3", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-03-0077-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0077|Konstantin Oliynyk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0077|Tetiana Sokolova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0077|Katrin Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0078-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0078|Dmytro Frolov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0079-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-03-0079|Tuba Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0079|Hande Oeztuerk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0079|Mehmet Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0080|Kirill Klimenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0081-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0081-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0081-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0081|Rami Chami", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0081|Sorin Constantin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0081|Martin Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0082-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0082-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0082|Timur Frolov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0082|Aleksandr Frolov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0083-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0083|Sabine Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0083|Andreas Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0083|Frank Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0084-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0084|Olha Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0084|Maxim Kuzmin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0084|Tuba Aslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0085-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0085-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0085|Daniel Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0085|Adrian Marin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0086|Felix Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0086|George Cristea", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0087-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0087-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0087|Lucian Ilie", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0087|Vasile Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0087|Florian Schmitt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0088-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0088-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0088|Ute Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0089-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-03-0089-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0089|Claudia Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-03-0089|Raluca Stoica", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-03-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-03-0090|Marina Ivanova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0001|Uwe Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0001|Bilal Hamoud", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0002-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0002|Valentina Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0002|Sabine König", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0003-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0003-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0003|Jana Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0004-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0004|Markus Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0005-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0005-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0005|Lena Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0005|Viktor Oliynyk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0005|Moritz Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0006|Susanne Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0006|Serkan Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0006|Stefanie Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0007-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0007-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0007|Mykhailo Kozlov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0007|Diana Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0007|Tolga Demir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0008-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0008-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0008|Faisal Bitar", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0008|Kai Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0009-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0009-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0009|Tobias Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0009|Tolga Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0009|Thomas Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0010-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-04-0010-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0010|Andreea Florea", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0010|Konstantin Morozov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0010|Mehmet Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0011-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0011-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0011|Miriam Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0011|Anna Kaiser", "decision": "adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0012-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0012|Marius Popa", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0012|Stanislav Kuznetsov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0012|Adnan Jarrah", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0013-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0013-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0013-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0013-A4", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0013|Laura Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0013|Martin Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0013|Gennady Nikitin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0014-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0014|Kirill Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0014|Tim Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0014|Tobias Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0015-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0015-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0015|Uwe Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0016-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0016-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0016|Lukas Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0016|Petra Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0016|Tolga Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0017-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0017|Daniel König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0017|Hande Sahin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0017|Rana Bitar", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0018|Jürgen Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0018|Sabine Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0018|Igor Kovalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0019-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0019-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0019-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0019|Michael Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0019|Simona Stoica", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0019|Can Celik", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0020-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0020|Matthias Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0021-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0021-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0021|Florian Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0021|Florian Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0021|Tolga Kaya", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0022-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0022-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0022-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0022-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0022|Evgeny Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0022|Uwe Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0022|Ali Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0023-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0023-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0023|Monika Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0023|Raluca Constantin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0023|Mehmet Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0024-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0024-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0024|Ebru Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0024|Tim Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0024|Hakan Acar", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0025-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0025|Fatma Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0026|Anna Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0026|Jan Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0027-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0027|Tobias Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0027|Tobias Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0027|Florin Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0028|Mihaela Dumitrescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0028|Frank Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0029-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0029|Pavel Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0029|Kemal Çelik", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0029|Stefan Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0030|Murat Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0030|Christian Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0031-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0031-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0031-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0031-A4", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0031|Jürgen Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0031|Ludmila Pavlenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0032-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0032-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0032|Can Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0033-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0033-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0033|Mikhail Kowalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0034-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0034-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0034-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0034-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0034-A5", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0034|Holger Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0034|Matthias Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0035-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0035-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0035-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0035-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0035|Jürgen Schmid", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0035|Can Demir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0036-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0036|Mihaela Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0036|Thomas Hoffmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0037-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0037-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0037-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0037-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0037-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0037-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0037|Gennady Zhukov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0038-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0038-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0038|Alina Constantin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0038|Daniela Gheorghiu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0039-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0039-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0039|Dirk Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0040-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0040-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0040|Sebastian Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0040|Jan Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0041-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0041|Susanne Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0042-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0042|Claudia Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0042|Artem Rudenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0043-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0043|Felix Walter", "decision": "adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0044-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0044-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0044-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0044-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0044|Kai Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0045|Zeynep Koç", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0046-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0046-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0046|Uwe Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0046|Stefan Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0046|Oleg Polishchuk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0047-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0047|Ali Kurt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0048-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0048-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0048|Catrin Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0048|Holger Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0048|Kemal Arslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0049-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0049-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0049-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0049-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0049|Oana Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0049|Frank Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0050|Vladimir Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0050|Jonas Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0051-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0051|Matthias Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0051|Moritz Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0051|Stephan Koch", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0052-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0052-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0052-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0052|Selin Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0052|Claudia Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0053|Florian Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0054|Cristian Toma", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0054|Hiba Khouri", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0054|Oana Toma", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0055-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0055|Jan Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0055|Mohammad Yassin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0055|Kai Krüger", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0056-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0056|Yasemin Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0057-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0057|Susanne Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0058-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0058-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0058-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0058-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0058-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0058-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0058|Jan Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0058|Julia Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0058|Claudia Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0059-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0059-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0059-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0059-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0059-A5", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0059|Vasile Stan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0060-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0060|Susanne Krueger", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0061-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0061-A2", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-04-0061-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0061-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0061|Diana Radu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0061|Yusuf Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0062|Michael Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0063|Sarah Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0064-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0064|Gabriel Marin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0064|Stephan Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0065-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0065|Cristian Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0065|Kemal Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0065|Sorin Nistor", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0066-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0066|Stefanie Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0066|Hakan Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0066|Walid Al-Hassan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0067-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0067|Nicole Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0067|Valentin Barbu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0068-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0068-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0068-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0068|Anna König", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0069-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0069-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0069|Jamal Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0069|Valentin Dumitrescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0069|Adrian Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0070|Frank Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0070|Thomas Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0071-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0071|Sebastian Schmid", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0072-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0072-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0072|Viktor Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0072|Florian König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0072|Ute Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0073-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0073-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0073-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0073|Yury Yakovlev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0073|Stefan Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0074-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0074-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0074-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0074-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0074-A5", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-04-0074-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0074|Jan Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0074|Andreea Barbu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0075-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0075|Tobias Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0075|Tuba Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0075|Susanne Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0076-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0076-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0076|Lena Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0076|Mustafa Keskin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0077-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0077-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0077-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0077-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0077-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0077-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0077|Matthias Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0077|Sarah Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0077|Florian Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0078-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0078|Tim Mueller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0079-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0079-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0079-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0079-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0079-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0079-A6", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0079|Radu Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0079|Jana Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0079|Stephan Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0080-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0080-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0080-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0080|Jan Schmidt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0081-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0081-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0081|Nikolay Petrow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0082-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0082-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0082|Deniz Celik", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0083-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0083|Andreas Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0084-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0084|Michael Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0085-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0085-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0085|Emre Şahin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0086-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0086-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0086|Daniel Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0086|Sebastian Wolf", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0087-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0087-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0087-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-04-0087|Julia Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0087|Claudia Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A7", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-04-0088-A8", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0088|Radu Radu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0089-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0089|Tolga Çetin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-04-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-04-0090|Dalia Issa", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0090|Mykola Kuznetsov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-04-0090|Christian Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0001-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0001|Tobias Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0002-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0002-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0002|Sabine Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0002|Kai Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0003-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0003|Hande Arslan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0003|Svetlana Sokolova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0003|Christian Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0004-A7", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0004|Felix Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0004|Lukas Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0005|Lucas Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0005|Adnan Issa", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0005|Melis Çelik", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0006-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0006|Óscar González", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0006|Frank Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0006|Vasile Constantin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0007-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0007|Emre Arslan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0007|Felix Hoffmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0008-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0008-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0008-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0008-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0008-A5", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0008|Holger Schultz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0009|Ion Ciobanu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0009|Petra Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0010-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0010-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0010-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0010-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0010-A5", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-05-0010|Lucas Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0010|Cem Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0010|Andrei Belov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0011|Gennady Morosow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0012-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0012|Radu Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0012|Adnan Maalouf", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0013-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0013|Ihor Belov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0013|Susanne König", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0014-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0014-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0014-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0014|Tim Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0014|Cristina Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0014|Moritz Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A5", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A6", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0015-A7", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0015|Alina Sandu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0016-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0016-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0016|Jan Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0016|Volkan Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0016|Ebru Kaya", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0017-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0017|Iryna Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0017|Markus Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0018-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0018|Sebastian Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0019-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0019-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0019|Julia Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0019|Burak Aktaş", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0020-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0020|Kai Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0021|Daniel Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0022-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0022|Sabine Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0022|Michael Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0022|Felix Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0023|Maria Matei", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0023|Daniel König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0023|Radu Ionescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0024-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0024-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0024-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0024|Sarah Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0025-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0025-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0025|Michael Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0025|Stefanie Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0025|Mihaela Moldovan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0026|Miriam Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0027-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0027-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0027|Florin Neagu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0027|Fatma Fakhoury", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0028-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0028|Ekaterina Oliynyka", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0029-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0029-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0029|Frank Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0029|Sabine Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0029|Lina Zein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0030-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0030|Ion Sandu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0031-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0031|Matthias Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0032-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0032|Moritz Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0032|Mihaela Ilie", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0033|Valentin Matei", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0033|Hakan Ozturk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0033|Nicole Hofmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0034-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0034|Radu Stan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0035-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-05-0035-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0035|Dirk Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0035|Serkan Öztürk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0036-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0036|Sebastian Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0036|Kemal Aktaş", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0037-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0037|Melis Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0038|Tim Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0038|Matthias Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0039-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0039|Andreas Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0039|Dmytro Oliynyk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0039|Oğuz Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0040|Jan Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0041-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0041-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0041-A3", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-05-0041-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0041|Daniela Constantin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0041|Moritz Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0042-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0042-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0042-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0042-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0042|Mustafa Çelik", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0042|Vera Guseva", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0043-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0043-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0043|Adrian Marin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0044-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0044|Ahmet Aslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0045-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0045|Tim Wolf", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0046-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0046|Kirill Belov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0046|Matthias Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0046|Markus Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0047-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0047|Ioan Rusu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0047|Hande Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0047|Andreas Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0048-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0048|Gabriela Matei", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0049-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0049|Birgit Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0050|Andreas Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0050|Jan Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0051-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0051-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0051|Martin Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0052-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0052-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0052-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0052|Stefan Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0052|Tobias Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0053-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0053|Thomas Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0053|Birgit Richter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0054-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0054|Tariq Rahman", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0055-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0055-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0055|Hüseyin Öztürk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0055|Uwe Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0055|Tatiana Petrova", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0056|Jonas Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0056|Wladimir Pavlenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0056|Gül Yıldız", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0057-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0057-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0057|Adrian Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0057|Lucas Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0058|Gül Celik", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0059|Florian Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0059|Claudia Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0060-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0060-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0060-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0060|Daniela Lungu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0061-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0061-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0061-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0061-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0061|Laura Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0061|Ksenia Nikitina", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0061|Birgit Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0062-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0062|Kai Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0062|Moritz König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0062|Jonas Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0063|Holger Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0063|Claudia Koch", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0064-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0064-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0064|Jonas Hoffmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0064|Jonas Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0064|Viktor Wolkow", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0065|Pavel Sorokin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0065|Matthias Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0066-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0066|Sorin Munteanu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0067-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0067-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0067|Stefanie Hofmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0067|Valentin Rusu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0067|Selin Bulut", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0068-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0068|Felix Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0068|Claudia Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0068|Sebastian Fuchs", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0069-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0069|Cem Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0069|Dirk Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0069|Tim Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0070-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0070|Gül Koç", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0071-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0071-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-05-0071|Martin Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0071|Nicole Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0072-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-05-0072|Igor Klimenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0072|Ayşe Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0073|Martin Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0073|Uwe Hoffmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0073|Michael Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0074|Andreas Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0075-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0075|Gabriel Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0075|Artem Iwanow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0076-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0076-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0076-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0076-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0076|Sebastian Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0076|Hakan Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0076|Omar Shami", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0077-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0077|Andreas Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0077|Dirk Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0077|Thomas Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0078|Susanne Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0078|Michael Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0079-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0079|Stefanie Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0080-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0080|Daniel Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0080|Cristina Neagu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0080|Petra Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0081|Moritz Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0081|Holger Krause", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0082-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0082-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0082-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0082|Mohammed Obeid", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0083-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-05-0083-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0083|Carmen García", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0083|Rana Al-Hassan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0083|Buse Yıldız", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0084-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0084-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0084-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0084-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0084|Sebastian Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0084|Jan Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0084|Frank Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0085-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0085-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-05-0085|Diana Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0086|Ion Florea", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0087-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0087|Tim Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0088|Susanne Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0089-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-05-0089-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0089|Radu Moldovan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-05-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-05-0090|Denis Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0090|Dirk Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-05-0090|Sabine Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0001|Monika Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0001|Frank Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0001|Anna Schmidt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0002-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0002-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0002|Tobias Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0002|Tobias Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0003-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0003|Catrin Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0004-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0004-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0004-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0004-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0004|Marcus Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0004|Jan Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0004|Ute Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0005|Sabine König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0006|Michael Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0007-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0007-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0007-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0007|Anna Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0008-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0008|Alina Munteanu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0009-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0009|Cristina Moldovan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0009|Yasemin Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0009|Tolga Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0010|Monika Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0011-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0011|Jürgen Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0011|Pavlo Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0011|Claudia Schultz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0012-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0012|Melis Acar", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0013-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0013|Lucian Tudor", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0013|Gabriel Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0013|Konstantin Oliynyk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0014-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0014|Holger Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0014|Bogdan Radu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0014|Daniel Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0015-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0015-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0015-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0015|Vladimir Belov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0015|Miriam Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0015|Artem Nowikow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0016-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0016|Sergei Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0016|Michael Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0016|Markus König", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0017-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0017-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0017-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0017|Michael Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0017|Stefanie Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0017|Petra Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0018-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0018|Martin Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0019|Sorin Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0019|Mehmed Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0019|Kai Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0020-A1", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0020|Felix Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0020|Timur Grigoriev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0020|Pawel Kozlov", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0021-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0021|Jürgen Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0022|Sebastian Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0023|Ludmila Titova", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0024-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0024-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0024-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0024|Mustafa Celik", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0024|Huseyin Arslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0025-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0025-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0025|Mona Rahman", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0025|Murat Keskin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0026-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0026-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0026-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0026|Sabine Richter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0027-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0027|Gül Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0027|Nicole Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0028-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0028-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0028|Ioana Radu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0029|Uwe Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0029|Jana Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0030-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0030|Vasile Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0030|Derya Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0031-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0031-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0031-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0031|Burak Ozturk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0031|Nabil Rahman", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0032-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0032-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0032|Laura Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0033|Katrin Wagner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0034-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0034|Lena Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0034|Michail Zaitsev", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0035-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0035-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0035|Uwe Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0035|Elena Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0035|Aleksandr Nowikow", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0036-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0036-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0036|Elena Ciobanu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0037-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0037-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0037-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0037|Dalia Issa", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0037|Ludmila Rudenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0038-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0038|Christian Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0039-A1", "decision": "true_match"}
+{"kind": "alert", "id": "kreditwerk-06-0039-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0039-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0039-A4", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0039|Cem Aktaş", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0040-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0040-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0040-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0040-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0040|Zeynep Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0041|Daniel Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0042|Emir Ozturk", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0043-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0043-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0043|Jamal Barakat", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0043|Kai Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0044|Julia König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0044|Claudia Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0045-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0045-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0045|Jürgen Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0046-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0046|Daniela Popescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0047-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0047|Evgeny Shevchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0047|Uwe Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0047|Holger Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0048-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0048-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0048-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0048-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0048|Daniel Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0048|Tim Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0049|Monika Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0049|Radu Marin", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0049|Bogdan Popa", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0050-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0050-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0050-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0050-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0050|Ekaterina Melnyka", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0051|Katrin Hofmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0052-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0052-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0052|Dmitri Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0052|Tim Hofmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0053-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0053|Lucas Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0054-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0054-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0054|Emre Sahin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0055-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0055-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0055-A3", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0055|Boris Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0055|Tuba Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0056|Frank Meier", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0057-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0057-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0057|Mustafa Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0057|Monika Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0058|Dirk Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0058|Tim Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0059|Vera Guseva", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0059|Viktor Oliynyk", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0059|Julia Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0060-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0060-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0060|Susanne Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0060|Andreea Ciobanu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0060|Laura Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0061|Thomas Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0062-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0062|Vadim Kuznetsov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0063|Kirill Kovalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0063|Christian Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0063|Uwe Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0064|Stephan Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0064|Moritz Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0065-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0065-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0065|Ute König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0065|Elena Constantin", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0066-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0066|Lena Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0067-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0067|Roman Orlov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0067|Cristian Neagu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0068-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0068-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0068|Michael Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0068|Christian Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0069-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0069|Markus König", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0069|Maria Neagu", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0069|Murat Kurt", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0070-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0070|Christian Richter", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0071-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0071-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0071-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0071-A4", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0071-A5", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0071|Stephan Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0071|Tobias Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0072-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0072|Hussain Qasim", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0072|Thomas Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0073-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0073-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0073-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0073|Murat Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0073|Frank Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0073|Katrin König", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0074-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0074-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0074-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0074|Tobias Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0074|Tobias Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0075|Michael Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0076-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0076|Denis Zaitsev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0076|Martin Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0076|Tolga Demir", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0077-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0077-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0077|Ioana Stan", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0078-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0078|Jamal Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0078|Valentin Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0078|Anna Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0079-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0079|Jonas Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0079|Kai Wolf", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0080-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0080-A2", "decision": "true_match"}
+{"kind": "media", "id": "kreditwerk-06-0080|Emre Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0080|Stanislav Schewtschenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0081-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0081-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0081-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0081|Christian Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0081|Ion Stoica", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0081|Gabriela Neagu", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0082-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0082-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0082|Michael Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0082|Gennady Romanov", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0083|Viktor Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0083|Michael Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0084-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0084-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0084-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0084|Katrin Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0084|Moritz Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0084|Viktor Kravchenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0085-A1", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0085|Thomas Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0086-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0086-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0086-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0086|Susanne Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0086|Nour Rahmen", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0086|Monika Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0087-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0087-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0087-A3", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0087|Jürgen Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0087|Holger Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0087|Catrin Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0088-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0088-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0088-A3", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0088-A4", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0088|Jan Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0088|Aylin Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0088|Stefan Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0089-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0089-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0089|Anna Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "kreditwerk-06-0090-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "kreditwerk-06-0090-A2", "decision": "false_positive"}
+{"kind": "media", "id": "kreditwerk-06-0090|Emir Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "kreditwerk-06-0090|Deniz Erdoğan", "decision": "no_adverse"}

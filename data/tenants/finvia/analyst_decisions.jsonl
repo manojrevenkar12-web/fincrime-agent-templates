@@ -1,0 +1,1987 @@
+{"kind": "media", "id": "finvia-01-0001|Natalia Orlova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0002|Jana Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0003|Frank Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0004|Felix Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0005-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0005|Vera Orlova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0006|Andreas Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0007|Walid Jarrah", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0008-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0008|Marcus Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0009|Lukas Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0010-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0010|Raúl Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0011|Pablo González", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0012|Christian Klein", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0013|Dirk Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0014|Sergio Reyes", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0015-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0015|Birgit Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0016|Ali Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0017|Viktor Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0018|Birgit Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0019|Holger Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0020|Burak Aslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0021|Pawel Fyodorov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0022|Viktor Nikitin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0023|Laila Rizk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0024-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0024|Hasan Qassem", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0025-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0025|Jana Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0026|Thomas Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0027|Thomas Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0028|Cristina Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0029|Kirill Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0030|Uwe Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0031|Elena Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0032|Zeynep Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0033|Omar Obeid", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0034-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0034|Irina Oliynyka", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0035|Mikhail Nikitin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0036|Huda Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0037|Juri Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0038|Abdallah Rizk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0039-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0039|Stefanie Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0040|Mariam Kanaan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0041|Sergei Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0042|Sebastian Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0043|Carlos Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0044|Aylin Acar", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0045-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0045|Roman Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0046|Luis Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0047|Hakan Aslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0048|Tim Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0049|Katrin Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0050|Cristian Neagu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0051|Holger Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0052|Andreas Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0053-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-01-0053-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0053|Adrian Stoica", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0054|Gennady Yakovlev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0055|Hamza Maalouf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0056|Volkan Sahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0057|Lucas Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0058-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0058|Ali Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0059|Birgit Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0060|Can Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0061|Matthias Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0062|Martin Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0063|Maryam Sabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0064|Daniel Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0065|Abdallah Najjar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0066|Miriam Müller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0067|Lucas Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0068|Jonas Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0069|Hussein Najjar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0070|Artem Morozov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0071|Fatma Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0072|Konstantin Sorokin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0073|Uwe Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0074|Kai Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0075|Stephan Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0076|Kathrin Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0077|Beatriz Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0078|Oana Barbu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0079|Christian Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0080|Tolga Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0081|Cem Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0082|Ksenia Petrova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0083|Jose Rivera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0084|Kathrin Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0085|Bassam Salih", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0086|Dmitri Kusnezow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0087|Matthias Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0088|Lucas Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0089-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0089|Lucian Popescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0090|Hassan Jarrah", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0091|Zainab Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0092|Pavel Rudenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0093-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0093|Faisal Farouk", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0094|Boris Nowikow", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0095-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0095|Sarah Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0096|Jürgen Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0097-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0097|Jürgen Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0098|Ute Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0099|Kemal Kılıç", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0100-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0100|Vadim Zaitsev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0101|Ahmet Keskin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0102|Sabine Krueger", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0103-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0103|Laura Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0104|Uwe Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0105|Matthias Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0106|Khaled Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0107|Irina Dumitrescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0108|Larisa Nikitina", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0109-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0109|Frank Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0110|Ibrahim Maalouf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0111|Konstantin Kuznetsov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0112|Ovidiu Munteanu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0113-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0113|Yulia Orlova", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0114|Huda Ghanem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0115|Yulia Yakovleva", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0116|Holger Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0117-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0117|Jana Meier", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0118|Petra Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0119-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0119|Jamal Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0120|Tim König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0121|Jan Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0122|Paula Romero", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0123|Bilal Nassif", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0124|Ghassan Bitar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0125|Susanne Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0126-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0126|Gennady Stepanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0127|Felix Meyer", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0128|Elena Gonzalez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0129-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0129|Jana Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0130|Stefanie Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0131|Christian Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0132|Dirk Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0133|Petra Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0134|Daniel Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0135|Manuel Herrera", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0136-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0136|Isabel Rodriguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0137|Ludmila Orlova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0138|Florian Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0139|Artem Stepanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0140|Laura Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0141|Jana Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0142|Sarah Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0143-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0143|Ioana Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0144|Rafael Jiménez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0145|Paula Medina", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0146-A1", "decision": "true_match"}
+{"kind": "alert", "id": "finvia-01-0146-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0146|Ali Şimşek", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0147|Monika Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0148|Andrés Herrera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0149|Ebru Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0150|Carmen Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0151|Cem Celik", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0152|Florian Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0153|Daria Zaitseva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0154-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0154|Raúl Martínez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0155-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0155|Sebastian Meyer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0156-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0156|Nicole Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0157|Christian Mueller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0158-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0158|Beatriz Ortiz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0159-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0159|Ibrahim Naser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0160|Kai Hofmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0161|Nour Zaher", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0162|Monika Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0163|Huseyin Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0164|Anton Lebedev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0165|Carmen Hernandez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0166-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0166|Claudia Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0167-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0167|Pavel Lebedev", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0168|Marina Nowikowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0169|Yusuf Bulut", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0170|Miguel Garcia", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0171-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0171|Sebastian Neumann", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0172|Teresa Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0173|Florin Matei", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0174-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0174|Denis Stepanov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0175-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0175|Gennady Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0176|Ludmila Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0177|Martin Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0178|Aisha Naser", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0179-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0179|Tobias Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0180|Teresa Vargas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0181|Michael Mayer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0182|Abdallah Salih", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0183|Valentin Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0184|Gheorghe Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0185|Vadim Kovalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0186|Nikolai Stepanov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0187-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0187|Ksenia Lebedeva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0188-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0188|Stephan Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0189|Simona Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0190|Serkan Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0191|José López", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0192|Tolga Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0193-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-01-0193-A2", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0193|Raúl Flores", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0194-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0194|Rafael Gonzalez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0195|Lena Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0196|Stefanie Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0197|Diego Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0198|Yuri Stepanov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0199-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0199|Jürgen Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0200|Huseyin Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0201|Carlos Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0202|Lena Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0203|Markus Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0204-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-01-0204-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0204|Amina Sabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0205|Alejandro Romero", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0206-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-01-0206-A2", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0206|Konstantin Zhukov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0207-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0207|Aleksandr Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0208|Tobias Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0209|Sarah Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0210-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0210|Felix Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0211|Rania Hijazi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0212|Hüseyin Kaya", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0213-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-01-0213|Oğuz Bulut", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0214-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0214|Sebastian Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0215|Roman Kuzmin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0216|Julia Köhler", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0217|Alejandro Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0218|Denis Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0219|Vladimir Kozlov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0220|Julia Kaiser", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0221|Emre Demir", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0222-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-01-0222-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-01-0222-A3", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0222|Ziad Sabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0223|Evgeny Romanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0224|Jan Müller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0225|Christian Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0226-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0226|Florian Mayer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0227|Andrés Medina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0228|Bilal Mansur", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0229|Tarek Zaher", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0230|Lukas Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0231|Igor Belov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0232|Markus Krause", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0233|Marta Cruz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0234|Ahmet Keskin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0235|Ovidiu Tudor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0236|Valentina Petrowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0237|Vera Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0238|Lena Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0239|Ali Yassin", "decision": "adverse"}
+{"kind": "media", "id": "finvia-01-0240|Timur Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0241|Elif Arslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0242|Andreas Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0243|Moritz Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0244-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0244|Olga Makarova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0245|Emre Arslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0246|Fatma Jarrah", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0247-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0247|Juan Garcia", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0248|Beatriz López", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0249|Andrés Gómez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0250-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0250|Hasan Chami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0251|Claudia König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0252|Dalia Chami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0253|Moritz Schmidt", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0254-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0254|Gül Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0255-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0255|Ioana Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0256|Jana Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0257|Viktor Zaitsev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0258|Moritz Krause", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-01-0259-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-01-0259|Stefanie Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-01-0260|Daniel Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0001|Kathrin Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0002|Kai Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0003|Sarah Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0004|Tuba Güneş", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0005-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0005|Javier Rodriguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0006|Ahmet Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0007-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0007|Adnan Shami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0008|Ute Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0009-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0009|Sergei Petrow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0010|Sarah Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0011|Ute Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0012|Ekaterina Polishchuka", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0013-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0013|Karim Tamimi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0014|Vladimir Ivanov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0015-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0015|Ayse Koç", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0016-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0016|Tolga Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0017|Katrin Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0018|Mohammed Zein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0019|Stanislav Klimenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0020-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0020|Boris Wolkow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0021|Rana Rahmen", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0022|Oğuz Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0023|Sabine Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0024|Sarah Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0025-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0025|Tobias Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0026-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0026|Jamal Yassin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0027|Lena Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0028|Jonas Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0029|Gheorghe Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0030|Fatma Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0031|Marta Díaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0032|Florin Marin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0033|Hamza Najjar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0034|Marta Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0035|Vasile Dinu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0036-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0036|Leonid Makarov", "decision": "adverse"}
+{"kind": "media", "id": "finvia-02-0037|Frank Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0038-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0038|Cristian Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0039|Kathrin Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0040|Bassam Qassem", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0041-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0041|Ana Ruiz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0042-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0042|Javier Rivera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0043|Viktor Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0044|Rosa Ramírez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0045-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0045|Sebastian Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0046-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0046|Ekaterina Melnyka", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0047-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0047|Tobias Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0048|Fatma Kılıç", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0049-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0049|Rami Tawil", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0050|Svetlana Frolova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0051|Monika Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0052|Daniel Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0053|Dirk Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0054|Jana Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0055|Moritz Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0056|Felix Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0057|Martin Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0058|Lucas Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0059-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0059|Nikolay Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0060|Nikolai Yakovlev", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-02-0061-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0061|Tim Richter", "decision": "adverse"}
+{"kind": "media", "id": "finvia-02-0062|Martin Muller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0063|Michael Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0064|Andreea Popa", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0065-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0065|Majid Ghanem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0066|Andrés Ruiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0067|Hakan Çelik", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0068|Lukas Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0069-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0069-A2", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0069|Holger Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0070|Evgeny Klimenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0071|Dan Ilie", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0072|Thomas Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0073|Mustafa Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0074|Kirill Rudenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0075-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0075|Anastasia Iwanowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0076|Melis Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0077-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0077|Leonid Petrov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0078|Zainab Mansur", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0079|Holger Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0080-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0080|Denis Tkachenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0081-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0081|Marius Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0082|Valentin Barbu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0083|Kemal Aydın", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0084-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0084|José Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0085|Manuel Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0086|Kai Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0087|Gül Bulut", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0088|Matthias Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0089|Hadi Najjar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0090|Lucía Reyes", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0091|Óscar Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0092|Jonas König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0093|Ali Bulut", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0094|Mustafa Arslan", "decision": "adverse"}
+{"kind": "media", "id": "finvia-02-0095|Artem Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0096|Sabine König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0097|Ahmet Acar", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0098-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0098|Karim Issa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0099|Holger Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0100|Christian Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0101|Anastasia Belova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0102|Amina Barakat", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0103|Vera Pavlenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0104|Fadi Darwish", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0105|Andreas Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0106|Daria Volkova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0107|Tetiana Zhukova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0108-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0108|Can Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0109|Paula Reyes", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0110-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0110|Andriy Tkachenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0111-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0111|Felix Hofmann", "decision": "adverse"}
+{"kind": "media", "id": "finvia-02-0112|Selin Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0113|Ute König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0114|Stefan Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0115-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0115-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0115|Mykola Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0116|Uwe Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0117|Alejandro Reyes", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0118|Julia Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0119|Claudia Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0120|Deniz Yilmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0121|Konstantin Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0122|Jan Schmitt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0123|Alejandro Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0124|Tobias Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0125|Lukas Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0126|Oleg Novikov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0127|Hamza Khalil", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0128|Monika Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0129|Kathrin Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0130|Salma Jaber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0131|Uwe Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0132|Sebastian Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0133|Volodymyr Melnyk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0134|Vadim Wolkow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0135|Florin Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0136|Markus Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0137|Igor Kuzmin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0138-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0138|Oğuz Arslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0139-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0139|Stephan Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0140|Elena Matei", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0141|Kai Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0142|Hüseyin Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0143|Derya Doğan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0144-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0144|Zeynep Keskin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0145|Florian Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0146|Elif Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0147-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0147|Kirill Iwanow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0148|Susanne Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0149|Uwe Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0150|Rania Najjar", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0151-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0151|Can Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0152|Raúl Medina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0153|Jan Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0154|Katrin Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0155|Sameer Fakhoury", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0156|Kathrin Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0157-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0157|Vadim Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0158|Elena Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0159|Sarah Muller", "decision": "adverse"}
+{"kind": "media", "id": "finvia-02-0160|Lucian Tudor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0161|Uwe Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0162|Mona Khalil", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0163|Thomas Wagner", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0164-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0164|Olga Makarova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0165|Thomas Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0166|Jan Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0167|Andrés Medina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0168|Pablo Vargas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0169|Jürgen Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0170|Nicole Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0171|Jan König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0172|Alejandro Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0173|Thomas Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0174|Khaled Fakhoury", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0175-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0175|Timur Tkachenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0176|Rami Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0177|Natalya Nikitina", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0178-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0178|Michael Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0179|Michael Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0180|Mona Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0181|Monika Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0182-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0182-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0182|Galina Polishchuka", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0183-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0183|Adnan Khoury", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0184|Ute Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0185|Elena Díaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0186|Thomas Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0187|Ksenia Klimenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0188|Tolga Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0189|Christian Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0190|Uwe Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0191|Faisal Qasim", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0192-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0192|Lena Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0193-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0193|Tim Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0194|Sergio Torres", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0195-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0195|Ahmet Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0196|Ioan Marin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0197-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0197-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0197|Oana Constantin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0198|Christian Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0199-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0199|Ekaterina Marchenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0200-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0200-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0200|Monika Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0201-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0201|Christian Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0202|Daria Orlova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0203|Javier López", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0204|Oleg Petrow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0205|Javier Sánchez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0206-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0206|Oğuz Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0207|Kai Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0208|Frank Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0209-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0209|Andrei Matei", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0210-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0210|Saeed Rizk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0211|Husain Maalouf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0212|Jana Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0213|Miriam Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0214|Anton Stepanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0215|Hamza Maalouf", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0216-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0216|Tatiana Oliynyka", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0217-A1", "decision": "true_match"}
+{"kind": "alert", "id": "finvia-02-0217-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0217|Matthias Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0218-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0218|Stefanie Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0219|Frank Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0220|Manuel Morales", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0221|Pavel Morozov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0222|Tim Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0223|Martin Schmitt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0224|Tim Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0225|Hussain Hijazi", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0226-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0226|Nicole Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0227|Sofía Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0228|Roman Fjodorow", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0229-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0229-A2", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0229|Bogdan Popescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0230-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0230-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0230-A3", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0230|Bassam Hamdan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0231-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0231|Mohamed Sabbagh", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0232-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0232|Stefan Schultz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0233|Elena Barbu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0234|Lucas Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0235|Saeed Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0236|Elena Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0237|Petra Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0238|Yasemin Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0239|Lena Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0240-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-02-0240-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0240|Raúl Flores", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0241-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0241|Andreas König", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0242-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0242|Andreas Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0243|Christian Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0244|Ekaterina Lysenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0245-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0245|Maxim Novikov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0246-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0246|Kareem Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0247|Majid Nasir", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0248-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-02-0248|Murat Yılmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0249|Birgit Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0250|Frank Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0251|Christian Hoffmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0252|Stephan Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0253|Yasemin Koç", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0254-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0254|Florian Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0255|Monika Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0256-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0256|Ioan Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0257|Óscar Cruz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0258-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0258|Pınar Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-02-0259|Rania Khalil", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-02-0260-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-02-0260|Maria Flores", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0001|Cem Celik", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0002-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0002|Dalia Kanaan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0003-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0003|Marina Zhukova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0004|Yuri Zaitsev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0005|Melis Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0006|Muhammad Hamoud", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0007|Tariq Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0008|Laura Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0009-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0009|Roman Sokolow", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0010-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0010-A2", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0010|Wladimir Yakovlev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0011|Laura Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0012|Mariam Yassin", "decision": "adverse"}
+{"kind": "media", "id": "finvia-03-0013|Hiba Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0014|Tim Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0015|Yusuf Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0016|Paula Reyes", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0017|Yusuf Bulut", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0018|Kai Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0019|Vadim Frolov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0020|Jonas Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0021|Alejandro Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0022|Hadi Khalil", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0023|Mehmed Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0024|Mustafa Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0025|Pawel Wolkow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0026|Claudia Rodríguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0027|Murat Öztürk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0028|Boris Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0029|Felix Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0030|Dmytro Volkov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0031|Andreas Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0032|Svetlana Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0033|Jan König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0034|Susanne Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0035|Mehmet Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0036|Lukas Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0037|Sebastian Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0038|Sarah Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0039|Marcus Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0040|Nabil Chami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0041|Daniel Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0042|Anastasia Kovalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0043-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0043|Ludmila Vasilieva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0044-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0044-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0044|Irina Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0045|Hamza Saleh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0046|Khaled Sabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0047|Kathrin Schneider", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0048-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0048|Mona Maalouf", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0049-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0049|Ioana Dumitrescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0050|Hadi Obeid", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0051-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0051|Walid Hamoud", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0052|Isabel González", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0053|Thomas Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0054|Dmytro Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0055|Claudia Torres", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0056|Boris Iwanow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0057|Carlos Gonzalez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0058|Frank Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0059|Husain Farouk", "decision": "adverse"}
+{"kind": "media", "id": "finvia-03-0060|Anna Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0061|Tuba Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0062|Jonas Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0063|Ute Schmidt", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0064-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0064|Sebastian Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0065-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0065|Anastasia Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0066|Ute Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0067|Moritz König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0068|Jana Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0069|Florian Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0070|Daniela Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0071|Yasmin Khalil", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0072-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0072|Luis Gómez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0073|Muhammad Zaher", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0074|Jürgen Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0075|Sergio Rodriguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0076|Susanne Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0077|Bogdan Munteanu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0078|Lukas Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0079|Birgit Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0080|Sebastian König", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0081-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0081|Christian Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0082|Holger Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0083-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0083|Miguel Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0084|Uwe Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0085|Ziad Laham", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0086|Tariq Issa", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0087-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0087|Olga Kuznetsova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0088|Daria Titova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0089-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0089|Oğuz Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0090|Beatriz Romero", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0091|Sarah Koch", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0092-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0092|María Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0093|Ioan Stoica", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0094|Boris Zaitsev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0095|Aylin Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0096|Ziad Hamoud", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0097|Aleksandr Stepanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0098|Ahmet Kara", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0099-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0099|Bogdan Rusu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0100-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0100-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0100|Ali Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0101|Yousef Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0102|Óscar Rodriguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0103|Aylin Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0104|Pavel Makarov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0105|Noor Zein", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0106-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0106-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0106|Marina Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0107|Juan Martinez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0108|Marina Sevcenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0109|Maxim Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0110|Mihaela Matei", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0111|Selin Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0112|Mohamed Nassif", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0113-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0113-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0113|Yusuf Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0114|Holger Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0115-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0115-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0115|Holger Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0116|Aleksandr Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0117|Selin Arslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0118-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0118-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0118|Sebastian Mueller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0119|Saeed Chami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0120|Mehmet Kaya", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0121-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0121|Kai Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0122|Maxim Ivanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0123|Kai Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0124|Pablo Herrera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0125|Umar Maalouf", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0126-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0126|Stanislav Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0127|Susanne Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0128|Raúl Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0129|Ahmet Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0130|Yulia Yakovleva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0131-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0131-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0131|Javier Martinez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0132-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0132|Claudia Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0133-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0133|Sebastian Mayer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0134|Valentina Zhukova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0135|Vladimir Frolov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0136|Mariam Barakat", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0137|Artem Oliynyk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0138|Ute Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0139|Jana Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0140|Moritz Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0141|Melis Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0142|Raúl Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0143|Daniel Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0144|Anton Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0145|Derya Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0146-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0146|Moritz Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0147|Marcus Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0148|Thomas Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0149|Thomas Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0150|Sebastian Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0151|Svetlana Vasilieva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0152-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0152|Frank Schulz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0153|Huda Shami", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0154-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0154|Svetlana Sevcenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0155|Zeynep Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0156|Emir Oeztuerk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0157|Ana Castillo", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0158-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0158|Fernando Sánchez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0159|Lucía Herrera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0160|Aleksander Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0161|Javier Díaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0162|Can Polat", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0163|Lena Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0164|Susanne Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0165|Simona Toma", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0166|Tobias Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0167|Simona Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0168|Hakan Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0169|Elena Sánchez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0170|Paula Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0171|Lina Jarrah", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0172-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0172|Stefanie Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0173|Sergio Rivera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0174|Yusuf Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0175|Michael Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0176|Timur Kusnezow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0177|Maxim Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0178|Kemal Şimşek", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0179-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0179|Kai Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0180|Claudia Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0181|Carlos Gutiérrez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0182-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0182|Buse Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0183|Ali Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0184|Aleksandr Novikov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0185-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0185|Felix König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0186|Andrei Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0187|Jamal Jaber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0188|Frank Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0189-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0189|Ahmet Şahin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0190-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0190|Tobias Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0191-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0191|Mona Saleh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0192|Nicole Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0193|Miriam Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0194|Serhiy Melnyk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0195|Yulia Shevchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0196|Alejandro Flores", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0197-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0197|Mona Farouk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0198-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0198|Jamal Yassin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0199|Elif Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0200-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0200|Ksenia Kowalenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0201-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0201|Elena Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0202|Bogdan Ionescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0203|Jan Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0204-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0204|Jan Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0205|Fatma Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0206|Carlos Torres", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0207|Jonas Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0208-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0208|Murat Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0209|Yusuf Rizk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0210|Nicole Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0211|Beatriz Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0212|Timur Fedorov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0213|Olha Zhukova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0214|Moritz Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0215|Miriam Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0216|Rafael Jiménez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0217|Murat Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0218|Gabriel Stoica", "decision": "adverse"}
+{"kind": "media", "id": "finvia-03-0219|Michael Jung", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-03-0220-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0220|Yulia Nikitina", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-03-0221-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0221|Sebastian Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0222|Katrin Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0223|Matthias Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0224|Miriam Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0225|Pawel Nikitin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0226|Oleg Sokolow", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0227-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0227|Ali Bitar", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0228-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0228-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0228|Kirill Frolov", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-03-0229-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0229|Andrey Tkachenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0230|Tobias Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0231|Ali Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0232|Andriy Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0233|Juan Jiménez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0234-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0234|Sabine Mueller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0235|Marcus Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0236|Holger Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0237|Tarek Obeid", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0238|Simona Stan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0239|Teresa Reyes", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0240|Kareem Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0241|Lina Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0242|Jonas Richter", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0243-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0243|Ute Schulz", "decision": "adverse"}
+{"kind": "media", "id": "finvia-03-0244|Nicole Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0245|Tobias Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0246-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0246|Oğuz Aslan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0247-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-03-0247-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0247|Abdallah Yassin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0248|Deniz Demir", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0249-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0249|Sebastian Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0250|Konstantin Bondarenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0251-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-03-0251|Anastasia Iwanowa", "decision": "adverse"}
+{"kind": "media", "id": "finvia-03-0252|Martin Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0253|Isabel López", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0254|Hakan Kurt", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-03-0255-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-03-0255|Miguel Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0256|Vasile Munteanu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0257|Denis Nowikow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0258|Ghassan Qasim", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0259|Huda Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-03-0260|Christian Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0001-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0001|Tim Wagner", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0002-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0002|Marcus Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0003|Tobias Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0004|Viktor Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0005|Noor Khouri", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0006|Mihai Popa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0007|Laura Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0008|Ahmad Abbas", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0009-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0009|Khalid Farouk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0010|Jonas Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0011|Frank Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0012|Birgit Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0013|Martin Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0014-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0014|Marina Oliynyka", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0015|Christian Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0016|Maxim Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0017|Majid Dabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0018|Natalya Ivanova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0019|Michail Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0020|Radu Ciobanu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0021|Thomas Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0022|Bassam Al-Masri", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0023|Ghassan Najjar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0024|Petra Mayer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0025|Anna Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0026|Lucas Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0027|Martin Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0028|Sorin Dumitrescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0029-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0029|Daniela Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0030|Adrian Lungu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0031|Mihaela Toma", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0032-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0032|Diego Díaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0033|Sabine Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0034|Holger Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0035|Lucas Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0036|Matthias Muller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0037|Sabine Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0038|Kai Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0039|Ute Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0040|Cem Yilmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0041|Sameer Hamoud", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0042|Maxim Vasiliev", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0043-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0043|Ksenia Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0044|Hakan Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0045|Kai Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0046|Dan Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0047|Petra Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0048|Julia Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0049|Andreas Braun", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0050-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0050|Igor Kuznetsov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0051|Christian Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0052|Sarah Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0053-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0053|Tatyana Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0054|Zainab Maalouf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0055|Vera Polishchuka", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0056|Frank Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0057|Michail Orlov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0058|Ekaterina Sokolowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0059|Oleg Sorokin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0060|Kemal Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0061|Stephan Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0062|Fatma Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0063|Gül Kılıç", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0064-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0064|Birgit Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0065|Anna Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0066|Vera Yakovleva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0067|Zainab Chami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0068|Elif Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0069|Ludmila Wolkowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0070|Elena Garcia", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0071|Rana Ghanem", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0072-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0072|Larisa Ivanova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0073-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0073|Birgit Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0074|Julia Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0075-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0075|Anton Lysenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0076|Fernando Morales", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0077|Teresa Gonzalez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0078|Yulia Guseva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0079|Lukas Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0080|Can Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0081|Sofía Jiménez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0082|Florin Moldovan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0083|Emir Tekin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0084|Anton Pavlenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0085|Sorin Ciobanu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0086|Nicole Koch", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0087-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0087|Maryam Al Hassan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0088|Stefanie Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0089-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0089|Lucian Popescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0090|Mona Farouk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0091|Tim Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0092|Selin Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0093|Matthias Schmitt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0094|Umar Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0095|Dirk Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0096|Jana Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0097|Petra Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0098|Raúl García", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0099|Felix Vogel", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-04-0100-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0100|Mustafa Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0101|Maxim Makarov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0102|Susanne Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0103|Frank Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0104|Derya Arslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0105|Kai Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0106|Carlos Rodríguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0107|Lukas Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0108|Huda Tamimi", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0109-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0109|Sebastian Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0110|Susanne Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0111|Ioana Florea", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0112|Kai Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0113|Bassam Farouk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0114|Sergio Vargas", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0115-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0115|Pablo Garcia", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0116|Sarah Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0117-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0117|Viktor Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0118|Ovidiu Rusu", "decision": "adverse"}
+{"kind": "media", "id": "finvia-04-0119|Gabriela Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0120|Susanne Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0121|Manuel Herrera", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0122-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-04-0122-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0122|Hassan Khalil", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0123|Emir Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0124|Galina Kuznetsova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0125-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0125|Tolga Erdoğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0126|Tolga Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0127|Frank Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0128|Thomas Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0129-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0129|Andreas Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0130|Raúl Garcia", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0131|Saeed Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0132|Holger Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0133-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-04-0133-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0133|Vladimir Yakovlev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0134|Stefan Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0135|Kirill Yakovlev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0136|Michael Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0137-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0137|Sabine Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0138|Maria Torres", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0139|Cem Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0140|Yasemin Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0141|Christian Mayr", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0142-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0142|Hasan Al Masri", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0143-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0143|Jan Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0144|Sebastian Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0145|Ovidiu Ionescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0146|Andreas Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0147|Ayşe Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0148|Tatiana Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0149|Diego Rodríguez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0150|Tim Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0151|Aysha Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0152|Florin Nistor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0153|Esra Özdemir", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0154|Mona Khalil", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0155|Omar Jaber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0156|Can Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0157|Ana Sánchez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0158|Hüseyin Kılıç", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0159-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0159|Gabriel Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0160|Jana Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0161|Anna Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0162|Gennady Iwanow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0163|Kemal Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0164|Ovidiu Barbu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0165|Daniel Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0166|Kai Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0167|Ahmed Maalouf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0168|Markus Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0169|Denis Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0170|Miriam Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0171|Miriam Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0172|Vera Nikitina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0173|Ibrahim Hijazi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0174|Jonas Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0175|Larisa Rudenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0176-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-04-0176-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0176|Evgeny Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0177|Artem Ivanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0178|Thomas Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0179|Ana Jiménez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0180-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0180|Florian Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0181|Burak Aslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0182|Ziad Alhassan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0183-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0183|Matthias Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0184|Nicole Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0185|Frank Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0186-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0186|Claudia Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0187|Lucas König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0188|Viktor Fedorov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0189|Uwe Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0190|Ovidiu Popescu", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-04-0191-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0191|Walid Issa", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0192-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0192|Jamal Zein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0193|Roman Klimenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0194-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0194|Felix Hofmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0195|Matthias König", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0196-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0196|Jana Zaher", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0197|Teresa Torres", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0198|Leila Ghanem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0199|Marta Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0200|Daniel Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0201|Burak Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0202|Marius Radu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0203-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0203|Esra Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0204|Huda Sabbagh", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0205-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0205|Yasmin Obeid", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0206|Michael Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0207-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0207|Ahmet Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0208|Maryam Khouri", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0209-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0209|Óscar Díaz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0210-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0210|Cristian Nistor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0211|Derya Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0212|Felix Vogel", "decision": "adverse"}
+{"kind": "media", "id": "finvia-04-0213|Can Çetin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0214-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0214|Claudia Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0215|Deniz Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0216|Felix Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0217|Lena Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0218|Ibrahim Rahman", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0219-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0219|Christian Fuchs", "decision": "adverse"}
+{"kind": "media", "id": "finvia-04-0220|Jana Becker", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0221|Svetlana Yakovleva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0222|Holger Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0223|Martin Keller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0224-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0224|Ksenia Shevchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0225|Marcus Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0226-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0226|Rafael Ruiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0227|Yusuf Ozturk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0228-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0228|Florian Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0229|Hadi Tamimi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0230|Sabine Schmitt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0231|Zeynep Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0232|Birgit Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0233|Aleksandr Lebedev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0234|Mehmet Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0235|Konstantin Zaitsev", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0236-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0236|Marina Lebedeva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0237-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0237|Ekaterina Yakovleva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0238|Birgit Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0239-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0239|Boris Wolkow", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0240-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0240|Sebastian Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0241|Diana Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0242|Moritz Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0243|Teresa Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0244|Florian Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0245|Christian Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0246|Yousef Rahmen", "decision": "adverse"}
+{"kind": "media", "id": "finvia-04-0247|Serkan Yılmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0248|Teresa Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0249|Christian Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0250-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0250|Yulia Nikitina", "decision": "adverse"}
+{"kind": "media", "id": "finvia-04-0251|María Sánchez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0252-A1", "decision": "true_match"}
+{"kind": "alert", "id": "finvia-04-0252-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0252|Daniela Constantin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0253-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0253|Thomas Meyer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0254-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-04-0254|Ali Tawil", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-04-0255-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-04-0255|Nicole Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0256|Gül Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0257|Lukas König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0258|Tarek Tamimi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0259|Anna Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-04-0260|Walid Zaher", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0001|Michael Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0002-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0002|Florian Meyer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0003-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0003|Tim Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0004|Holger Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0005|Kemal Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0006|Yulia Melnyka", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0007|Michail Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0008|Faisal Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0009|Viktor Melnyk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0010|Michael Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0011|Daniel Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0012|Pavlo Vasiliev", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0013-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-05-0013-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0013|Walid Shami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0014|Sergio Gómez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0015-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0015|Stefanie Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0016|Denis Volkov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0017|Daniel Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0018-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0018|Jana Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0019|Omar Tamimi", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0020-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0020|Bilal Shami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0021|Holger Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0022-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0022|Ioana Dinu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0023-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0023|Marcus Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0024|Svetlana Grigorieva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0025|Hiba Haddad", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0026-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0026|Can Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0027|Frank Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0028|Miguel Ruiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0029|Lukas Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0030|Miriam Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0031|Lena Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0032|Esra Arslan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0033|Florian Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0034|Murat Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0035|Evgeny Kusnezow", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0036-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0036|Stefanie Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0037|Luis Martinez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0038-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0038|Amina Darwish", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0039|Birgit Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0040|Kathrin Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0041|Ibrahim Tamimi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0042|Beatriz Torres", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0043|Tolga Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0044|Mykola Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0045|Stefan Mayr", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0046|Rana Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0047|Daniel Hoffmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0048|Alejandro Morales", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0049|Anna Schmidt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0050|Matthias Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0051|Michael Hartmann", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0052|Moritz Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0053|Burak Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0054-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0054|Maria Cristea", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0055|Gül Sahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0056|Nour Jarrah", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0057|Carlos Gonzalez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0058|Isabel Reyes", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0059|Mihaela Ionescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0060-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0060|Jana Fakhoury", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0061|Hande Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0062|Tolga Yılmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0063|Monika Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0064|Andrey Vasiliev", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0065-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0065|Fernando Pérez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0066|Jonas Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0067|Buse Yilmaz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0068|Andrey Gusev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0069|Mona Zein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0070|Ghassan Qasim", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0071-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-05-0071-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0071|Khalid Dabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0072|Daniel Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0073-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0073|Derya Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0074|Ahmed Fakhoury", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0075|Julia Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0076-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0076|Andrei Tkachenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0077|Dirk Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0078-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0078|Hadi Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0079|Ute Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0080-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0080|Tim Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0081|Laura Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0082|Ute Schmitt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0083|Lucas Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0084|Luis Sánchez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0085|Matthias Neumann", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0086|Ebru Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0087|Murat Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0088-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0088|Stefanie Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0089|Moritz Lang", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-05-0090-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0090|Markus Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0091|Valentin Ilie", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0092-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-05-0092-A2", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0092|Miriam König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0093|Artem Frolov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0094|Manuel García", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0095|Fernando Castillo", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0096-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0096|Sergei Nowikow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0097|Elena Dinu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0098-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0098|Stanislav Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0099|Zainab Jaber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0100|Vasile Dumitrescu", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-05-0101-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0101|Andreas Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0102|Fatma Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0103|Abdullah Rizk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0104|Florian Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0105|Thomas Schmid", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0106-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0106|Ali Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0107|Julia Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0108|Roman Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0109|Natalya Titova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0110|Raluca Moldovan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0111|Yasmin Jaber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0112|Stefanie Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0113|Ana Vargas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0114|Pawel Zhukov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0115-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0115|Vera Lysenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0116-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0116|Birgit Müller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0117|Frank Krüger", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0118-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0118|Uwe Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0119|Volkan Kılıç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0120|Svetlana Wolkowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0121|Felix Herrmann", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-05-0122-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0122|Galina Grigorieva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0123|Uwe Kaiser", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0124-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0124|Emir Özdemir", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0125|Leonid Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0126|Hamza Hijazi", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0127-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0127|Jürgen Walter", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0128-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0128|Murat Polat", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-05-0129-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0129|Andreas Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0130-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0130|Gheorghe Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0131|Oğuz Erdoğan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0132-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0132|Oleg Morozov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0133|Andrei Munteanu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0134|Daniel Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0135|Timur Shevchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0136|Leonid Yakovlev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0137|Kai Weber", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0138-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-05-0138-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0138|Matthias Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0139|Mariam Salih", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0140|Sarah Lehmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0141-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0141|Jürgen Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0142|Esra Kurt", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0143|Zainab Laham", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0144-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0144|Lina Rahman", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0145|Lucian Barbu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0146|Anastasia Belova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0147|Salma Jaber", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0148|Daniel Schneider", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0149|Dirk Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0150|Carlos Hernandez", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0151|Lukas Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0152|Lina Alhassan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0153-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0153|Hasan Dabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0154|Thomas Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0155|Ion Popa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0156|Pınar Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0157|Monika Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0158-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0158|Ana Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0159|Jonas Schäfer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0160-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0160|Nikolai Kozlov", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0161|Carlos Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0162|Vasile Marin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0163|Radu Rusu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0164-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0164|Jürgen Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0165-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0165|Michael Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0166|Christian Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0167|Artem Frolov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0168|Alejandro Medina", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0169-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0169|Anna Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0170|Stanislav Romanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0171|Jana Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0172-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0172|Daniel Schultz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0173|Dirk Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0174|Salma Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0175|Rania Darwish", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0176|Kirill Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0177|Aylin Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0178|Marius Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0179|Laura Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0180|Petra Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0181|Ebru Acar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0182|Frank Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0183|Paula Jiménez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0184|Laura Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0185|Saeed Yassin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0186|Anna Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0187|Stefan Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0188|Yusuf Khouri", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0189|Can Sahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0190|Timur Kuznetsov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0191-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0191|Jana Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0192|Lucas Hoffmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0193|Huda Ghanem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0194|Ovidiu Radu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0195|Aleksandr Polishchuk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0196-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0196|Svetlana Titova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0197|Evgeny Oliynyk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0198-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0198|Serkan Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0199|Moritz Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0200|Christian Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0201|Ahmet Güneş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0202|Hiba Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0203|Viktor Titov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0204|Mikhail Wolkow", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-05-0205-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-05-0205-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-05-0205-A3", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0205|Holger Scholz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0206-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0206|Stefan Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0207|Birgit Schmid", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0208|Sebastian Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0209-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0209|Gabriel Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0210|Jürgen Scholz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0211-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0211|Abdallah Hijazi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0212|Timur Sokolov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0213|Michail Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0214|Jan Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0215|Dirk Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0216|Murat Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0217|Laura Morales", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0218|Birgit Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0219|Simona Popa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0220|Burak Arslan", "decision": "adverse"}
+{"kind": "media", "id": "finvia-05-0221|Jürgen Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0222|Kareem Jaber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0223|Susanne König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0224|Huseyin Kara", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0225|Daria Kowalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0226|Anna Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0227|Petra Krueger", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0228-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0228|Dirk Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0229|Monika Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0230|Carlos Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0231|Markus Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0232|Fernando Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0233|Dmitri Wolkow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0234|Igor Gusev", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0235-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0235|Stanislav Fedorov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0236-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0236|Claudia Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0237|Stefanie Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0238|Jonas König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0239|Kai Neumann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0240-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0240|Tobias Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0241-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0241|Jan Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0242|Dmytro Shevchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0243|Christian Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0244-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0244|Nabil Al Hassan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0245|Andreas Meier", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0246-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0246|Pablo Hernandez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0247-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0247|Jana Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0248|Sarah Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0249|Denis Nikitin", "decision": "adverse"}
+{"kind": "alert", "id": "finvia-05-0250-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0250|Serkan Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0251|Pilar Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0252|Pınar Özdemir", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0253-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0253|Galina Petrova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0254-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-05-0254|Frank Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0255|Monika Hoffmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0256|Mona Qasim", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-05-0257-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-05-0257|Michael Richter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0258|Michael Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0259|Michael Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-05-0260|Ekaterina Zaitseva", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0001|Uwe Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0002|Nicole Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0003|Carmen Martinez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0004|Julia Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0005|Volkan Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0006-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0006|Oleksandr Orlov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0007|Marius Ionescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0008|Carmen Castillo", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0009|Uwe Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0010|Esra Çetin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0011|Sarah Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0012-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0012|Michael Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0013|Claudia Gutiérrez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0014-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0014|Markus Vogel", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0015|Michael Muller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0016|Valentina Bondarenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0017-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0017|Yulia Romanova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0018|Salma Shami", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0019|Sergio Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0020|Sabine Wolf", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0021-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0021|Stefan Lange", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0022-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0022|Juan Lopez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0023-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0023|Jürgen Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0024-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0024|Ayşe Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0025|Jan Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0026|Galina Pavlenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0027|Catrin König", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0028|Uwe Müller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0029-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0029|Tolga Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0030|Ahmet Celik", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0031|Kai Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0032|Stanislav Ivanov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0033|Andreea Ilie", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0034|Martin Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0035|Ludmila Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0036|Tim Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0037|Manuel Díaz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0038-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0038|Matthias Werner", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0039|Jonas Schmid", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0040|Marina Iwanowa", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0041-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0041|Lucian Neagu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0042|Thomas Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0043-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0043|Felix Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0044|Stefan Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0045|Frank Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0046|Marcus Koch", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0047-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0047|Tatiana Titova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0048|Nicole Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0049|Majid Khouri", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0050-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0050|Emir Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0051|Moritz Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0052|Khalid Ghanem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0053|Evgeny Vasiliev", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0054|Fatima Rizk", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0055-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0055|Sebastian Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0056|Sameer Haddad", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0057-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0057|Simona Dumitrescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0058|Susanne Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0059|Miriam Becker", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0060-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0060|Florian Fischer", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0061-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0061|Denis Belov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0062-A1", "decision": "true_match"}
+{"kind": "alert", "id": "finvia-06-0062-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0062|Emre Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0063-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0063|Burak Güneş", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0064-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0064|Florin Rusu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0065|Lucian Florea", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0066|Frank Köhler", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0067|Irina Toma", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0068|Ioana Nistor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0069|Olha Vasilieva", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0070-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0070|Fadi Hamdan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0071|Ahmet Tekin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0072-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0072|Amina Rahman", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0073|Michael Meyer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0074|Luis Ortiz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0075|Saeed Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0076|Ute Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0077|Birgit Köhler", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0078-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0078|Hasan Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0079|Deniz Ozturk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0080|Christian Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0081|Stefanie Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0082|Rami Qasim", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0083|Nicole Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0084|Fatma Öztürk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0085|Oana Moldovan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0086|Michael Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0087|Walid Nassif", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0088|Dirk Lange", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0089|Moritz Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0090|Tetiana Sorokina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0091|Vasile Nistor", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0092-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0092|Bogdan Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0093|Lukas Krüger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0094|Vera Romanova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0095-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0095|Cristian Matei", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0096|Miriam Mueller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0097|Lucian Toma", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0098-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0098-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0098|Adrian Stoica", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0099|Marius Nistor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0100|Leonid Klimenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0101|Florin Sandu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0102|Pavlo Pavlenko", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0103-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0103|Mona Bitar", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0104|Daniel Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0105|Yasemin Keskin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0106|Thomas Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0107|Marcus Zimmermann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0108|Uwe Schneider", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0109|Ute Lehmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0110|Lucas Jung", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0111|Simona Nistor", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0112-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0112|Diana Toma", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0113|Florian Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0114|Jana Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0115|Nicole Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0116|Sebastian Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0117|Jonas Peters", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0118|Matthias Wagner", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0119-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0119|Ali Hijazi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0120|Manuel Medina", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0121-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0121|Ute Schwarz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0122|Sarah Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0123-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0123|Sameer Hijazi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0124|Florian Wolf", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0125|Huda Abbas", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0126|Burak Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0127|Fatma Polat", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0128-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0128|Cristian Lungu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0129-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0129|Tomás Herrera", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0130|Ayse Şahin", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0131-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0131|Tatiana Romanova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0132|Samir Jarrah", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0133|Moritz Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0134|Ibrahim Zaher", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0135-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0135|María Martinez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0136|Oğuz Doğan", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0137|Lucas Weber", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0138|Tim Krause", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0139|Anastasia Pavlenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0140|Roman Marchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0141|Frank Schwarz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0142-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0142|Gül Demir", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0143|Konstantin Lebedev", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0144|Amina Naser", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0145-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0145|Nabil Tamimi", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0146|Matthias Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0147|Jürgen Schmid", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0148|Susanne Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0149|Maria Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0150|Irina Munteanu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0151|Birgit Klein", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0152-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0152|Ali Fakhoury", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0153-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0153|Anastasia Frolova", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0154-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0154-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0154-A3", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0154|Diana Dumitrescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0155|Markus Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0156|Julia Lang", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0157-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0157|Lukas Hartmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0158-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0158|Huseyin Şimşek", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0159|Bogdan Gheorghiu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0160|Mona Zein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0161|Pavlo Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0162|Tim Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0163|Volkan Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0164|Vera Romanova", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0165|Jürgen Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0166|Sebastian Scholz", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0167|Dirk Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0168-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0168|Petra Koch", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0169|Lucas Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0170-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0170|Birgit Muller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0171|Ute Krueger", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0172|Stanislav Klimenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0173|Timur Polishchuk", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0174|Yasmin Haddad", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0175|Hande Koç", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0176|Martin Neumann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0177|Mustafa Şahin", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0178|Diego Gómez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0179|Javier Medina", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0180-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0180-A2", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0180-A3", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0180|Holger Scholz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0181-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0181|Fernando Lopez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0182-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0182|Bogdan Ilie", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0183|Boris Kozlov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0184|Ovidiu Nistor", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0185|Lucia Ramírez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0186|Christian Herrmann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0187-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0187|Christian Lang", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0188|Vera Kovalenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0189|Yusuf Aktaş", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0190|Nicole Keller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0191|Natalia Iwanowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0192|Jan Peters", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0193-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0193|Jürgen Walter", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0194|Martin Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0195|Irina Iwanowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0196|Volodymyr Bondarenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0197|Sebastian Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0198|Christian Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0199|Alejandro Gutiérrez", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0200-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0200|Stanislav Fedorov", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0201|Sergei Rudenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0202|Carlos Torres", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0203|Hakan Celik", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0204-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0204|Sabine Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0205-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0205|Vadim Klimenko", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0206|Julia Schäfer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0207|Mustafa Kaya", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0208|Sergey Zhukov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0209-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0209|Fadi Dabbagh", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0210|Frank Klein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0211|Svetlana Nowikowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0212|Valentin Toma", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0213|Vasile Ionescu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0214-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0214|Andreas König", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0215-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0215|Natalia Morosowa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0216|Holger Krause", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0217-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0217-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0217|Fadi Hijazi", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0218-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0218|Holger Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0219|Yasmin Qassem", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0220|Yusuf Yıldız", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0221-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0221|Daniel Schultz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0222-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0222|Olena Savchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0223|Uwe Wagner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0224|Mustafa Aydın", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0225|Florin Dinu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0226|Miguel Gutiérrez", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0227|Dirk Fuchs", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0228|Yasmin Zein", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0229|Marta Medina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0230|Rana Chami", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0231-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0231-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0231|Kirill Kravchenko", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0232|Stefan Braun", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0233|Aisha Maalouf", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0234-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0234|Jonas Möller", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0235-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0235|Marcus Kaiser", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0236|Tim Schultz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0237-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0237-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0237|Moritz Werner", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0238-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0238|Adrian Rusu", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0239-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0239|Moritz Möller", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0240|Michael Zimmermann", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0241-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0241|Faisal Farouk", "decision": "adverse"}
+{"kind": "media", "id": "finvia-06-0242|Tobias Herrmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0243|Oleksandr Fyodorov", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0244-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0244-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0244|Dan Popescu", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0245|Stefanie Fischer", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0246|Mariam Hamdan", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0247-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0247|Bilal Issa", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0248|Stefan Jung", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0249-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0249|Faisal Rahman", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0250-A1", "decision": "false_positive"}
+{"kind": "alert", "id": "finvia-06-0250-A2", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0250|Ihor Petrow", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0251|Felix Vogel", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0252-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0252|Tolga Yıldız", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0253-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0253|Dan Toma", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0254|Laura Hartmann", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0255|Ekaterina Morosowa", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0256-A1", "decision": "true_match"}
+{"kind": "media", "id": "finvia-06-0256|Tolga Yıldız", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0257|Galina Kuzmina", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0258|Markus Schulz", "decision": "no_adverse"}
+{"kind": "alert", "id": "finvia-06-0259-A1", "decision": "false_positive"}
+{"kind": "media", "id": "finvia-06-0259|Matthias Werner", "decision": "no_adverse"}
+{"kind": "media", "id": "finvia-06-0260|Alexander Fedorov", "decision": "no_adverse"}

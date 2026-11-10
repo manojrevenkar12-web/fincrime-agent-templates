@@ -290,7 +290,7 @@ def build(cfg: dict, out: Path) -> dict:
         cultures, weights = zip(*t["culture_weights"].items(), strict=True)
         screenings, truth_rows = [], []
         for month, first, last in months:
-            split = "heldout" if (t["heldout_tenant"] or month > cfg["world"]["history_months"]) else "history"
+            split = "heldout" if month > cfg["world"]["history_months"] else "history"
             for k in range(t["screenings_per_month"]):
                 when = first + timedelta(days=r.randrange((last - first).days + 1))
                 sid_ = f"{t['id']}-{month:02d}-{k + 1:04d}"
@@ -372,6 +372,7 @@ def build(cfg: dict, out: Path) -> dict:
                 a["conflicts"] = conflicts
                 a["ideal"] = alert_ideal(a["is_match"], conflicts, policy)
         _write_jsonl(tdir / "screenings.jsonl", screenings)
+        _write_jsonl(tdir / "analyst_decisions.jsonl", _analyst_history(r, rows, cfg))
 
     (out / "lists").mkdir(parents=True, exist_ok=True)
     _write_jsonl(out / "lists" / "entries.jsonl", entries)
@@ -506,3 +507,25 @@ def _write_jsonl(path: Path, rows: list[dict]) -> None:
     with open(path, "w", encoding="utf-8") as fh:
         for row in rows:
             fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+
+
+def _analyst_history(r: random.Random, rows: dict, cfg: dict) -> list[dict]:
+    """What the customer's analysts decided on past alerts and media hits: the labels an activation starts from.
+    Analysts are good but not perfect, and they decide matches, not what the evidence would have allowed."""
+    noise = cfg["analysts"]
+    out = []
+    for row in rows.values():
+        if row["split"] != "history":
+            continue
+        for a in row["alerts"]:
+            match = a["is_match"]
+            if match and r.random() < noise["missed_match"]:
+                match = False
+            elif not match and r.random() < noise["false_match"]:
+                match = True
+            out.append({"kind": "alert", "id": a["alert_id"], "decision": "true_match" if match else "false_positive"})
+        for m in row["media"]:
+            adverse = m["ideal"] == "finding" or (m["ideal"] == "escalate" and r.random() < noise["unsure_adverse"])
+            out.append({"kind": "media", "id": f"{row['screening_id']}|{m['party_name']}",
+                        "decision": "adverse" if adverse else "no_adverse"})
+    return out
