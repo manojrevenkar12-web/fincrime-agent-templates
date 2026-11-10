@@ -1,0 +1,82 @@
+# The simulated world: screening lists, media, four customers and their screenings. Changing anything here
+# changes the data and therefore the held-out fingerprint.
+
+[world]
+seed = 20261110
+start = "2026-01-01"          # first screening month; months 1-6 are history, 7-8 are held out
+history_months = 6
+heldout_months = 2
+
+[lists]
+sanctioned_persons = 700
+sanctioned_entities = 300
+peps = 400
+dob_full_share = 0.45
+dob_year_only_share = 0.3      # the rest have no date of birth
+second_dob_share = 0.2
+pob_field_share = 0.35         # place of birth as a field; otherwise sometimes only in the remarks
+pob_remarks_share = 0.35
+nationality_share = 0.7
+passport_share = 0.3
+pep_former_share = 0.35
+culture_weights = { arabic = 0.3, slavic = 0.35, turkish = 0.08, spanish = 0.1, romanian = 0.07, german = 0.1 }
+pep_culture_weights = { german = 0.35, romanian = 0.2, turkish = 0.15, spanish = 0.15, slavic = 0.15 }
+
+[screening]
+provider_threshold = 0.88      # token-set similarity on folded names
+media_threshold = 0.9
+canonical_spelling_share = 0.5
+
+[media]
+adverse_customer_share = 0.04  # customers with adverse news about them
+namesake_articles_per_name = [0, 3]
+identifying_detail_share = 0.75
+acquitted_share = 0.15
+injection_share = 0.06
+years_back = 9
+
+# Four customers of the platform. The fourth is held out entirely: the template is never built or tuned on
+# its data, and it is activated only through the activation pipeline, from its data dictionary.
+[[tenants]]
+id = "finvia"
+kind = "neobank"
+segment = "individuals"
+screenings_per_month = 260
+export = "finvia_json"
+culture_weights = { german = 0.38, turkish = 0.14, arabic = 0.14, slavic = 0.16, romanian = 0.08, spanish = 0.1 }
+planted_sanctioned = 0.02
+planted_pep = 0.03
+heldout_tenant = false
+
+[[tenants]]
+id = "ledgerly"
+kind = "b2b-spend"
+segment = "businesses"
+screenings_per_month = 110
+export = "ledgerly_csv"
+culture_weights = { german = 0.25, slavic = 0.2, arabic = 0.15, turkish = 0.1, spanish = 0.2, romanian = 0.1 }
+planted_sanctioned = 0.03
+planted_pep = 0.03
+heldout_tenant = false
+
+[[tenants]]
+id = "kreditwerk"
+kind = "sme-lender"
+segment = "businesses"
+screenings_per_month = 90
+export = "kreditwerk_de"
+culture_weights = { german = 0.55, turkish = 0.15, slavic = 0.12, arabic = 0.08, romanian = 0.1 }
+planted_sanctioned = 0.02
+planted_pep = 0.04
+heldout_tenant = false
+
+[[tenants]]
+id = "northbank"
+kind = "retail-bank"
+segment = "individuals"
+screenings_per_month = 200
+export = "northbank_fixed"
+culture_weights = { german = 0.3, slavic = 0.2, arabic = 0.2, turkish = 0.1, romanian = 0.1, spanish = 0.1 }
+planted_sanctioned = 0.02
+planted_pep = 0.03
+heldout_tenant = true
