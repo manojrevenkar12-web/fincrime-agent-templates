@@ -1,0 +1,23 @@
+# Ledgerly (B2B spend management, business customers). Written from its dictionary.md and policy.md.
+id = "ledgerly"
+
+[mapping]
+mode = "explicit"
+segment = "businesses"
+company_name = "legal_name"
+registration = "reg_no"
+country = "country"
+person_path = "parties"
+role = "role"
+full_name = "full_name"
+name_order = "given_surname"
+dob = "dob"
+dob_format = "%m/%d/%Y"           # the dictionary says MM/DD/YYYY: the US parent's stack
+pob_city = "city_of_birth"
+nationality = "nationality"
+nationality_code = "alpha2"
+
+[policy]
+min_conflicts = 1
+topics = ["sanctions_evasion", "bribery", "fraud", "money_laundering"]
+lookback_years = 5

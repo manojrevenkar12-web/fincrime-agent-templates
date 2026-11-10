@@ -1,0 +1,21 @@
+# Northbank (retail bank, private customers). Written from data/tenants/northbank/dictionary.md and policy.md
+# only, before the template ever ran on Northbank's data.
+id = "northbank"
+
+[mapping]
+mode = "explicit"
+segment = "individuals"
+person_path = ""
+full_name = "name"
+name_order = "surname/given"
+dob = "dob"
+dob_format = "%Y%m%d"
+pob_city = "pob"
+residence_city = "addr"
+nationality = "nat"
+nationality_code = "alpha3"
+
+[policy]
+min_conflicts = 2
+topics = ["fraud", "money_laundering", "terrorism_financing", "bribery", "sanctions_evasion"]
+lookback_years = 7

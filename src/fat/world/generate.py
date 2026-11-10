@@ -16,8 +16,8 @@ from pathlib import Path
 
 from .names import COMPANY_KINDS, COMPANY_WORDS, CULTURES, GERMAN_CITIES, LEGAL_FORMS, LEGAL_VARIANTS, OCCUPATIONS
 from .screening import MediaProvider, Provider
-from .truth import alert_ideal, entity_conflicts, media_ideal, person_conflicts
 from .text import ARTICLE, COUNTRY_NAMES, INJECTIONS, NATIONALITY_DE, POLICIES, REMARKS
+from .truth import alert_ideal, entity_conflicts, media_ideal, person_conflicts
 
 TOPICS_ADVERSE = ["fraud", "money_laundering", "sanctions_evasion", "bribery", "tax_evasion", "insolvency",
                   "terrorism_financing"]

@@ -1,0 +1,132 @@
+# Settings shared by every customer: the template's defaults, model tiers, guards, the simulated models, the
+# evaluation and the activation gate. Customer-specific settings live in config/customers/<id>.toml.
+
+[paths]
+lists = "data/lists/entries.jsonl"
+media = "data/media/articles.jsonl"
+tenants = "data/tenants"
+activations = "config/activations"
+
+[template]
+# How much each kind of conflicting identifier counts towards closing an alert.
+weights = { dob_full = 1.0, dob_year = 0.6, dob_remarks = 0.8, pob_field = 0.8, pob_remarks = 0.7, registration = 1.0, country = 0.6 }
+year_tolerance = 1                   # a list that gives only a year allows this many years either way
+age_tolerance = 1                    # an article's age may be off by a birthday
+theta_grid = [0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.4, 1.6, 1.8, 2.0]
+default_theta = 0.6
+media_threshold_days_per_year = 365
+analyst_minutes = { alert = 6.0, media_hit = 3.0 }   # assumption used to express workload in hours
+
+[guards]
+instruction_patterns = [
+  'ignore (all )?(previous|prior) (instructions|rules)',
+  '\b(system|assistant)\s*:',
+  '\b(automated|automatic)\s+(compliance\s+)?(tools?|systems?|review(ers)?)\b',
+  '\b(AI|KI|LLM)[- ]?(Prüfsystem\w*|systems?|tools?|reviewers?|assistants?)\b',
+  '\bscreening (assistants?|tools?|systems?)\b',
+]
+acquittal_words = ["acquitted", "freigesprochen", "verdict was overturned", "charges were dropped", "eingestellt"]
+adverse_words = { fraud = ["fraud", "forged", "Betrug", "gefälscht"], money_laundering = ["money laundering", "laundered", "gewaschen", "Geldwäsche"], sanctions_evasion = ["sanction", "Sanktion"], bribery = ["bribery", "Bestechung"], tax_evasion = ["evading taxes", "tax evasion", "Steuerhinterziehung"], insolvency = ["insolvency", "Insolvenz"], terrorism_financing = ["armed group", "Terrorismusfinanzierung"] }
+
+[tiers.small]
+in_eur_per_m = 0.9
+out_eur_per_m = 4.5
+base_ms = 350
+in_ms_per_tok = 0.04
+out_ms_per_tok = 7
+[tiers.medium]
+in_eur_per_m = 2.8
+out_eur_per_m = 14.0
+base_ms = 600
+in_ms_per_tok = 0.08
+out_ms_per_tok = 13
+[tiers.large]
+in_eur_per_m = 4.6
+out_eur_per_m = 23.0
+base_ms = 1100
+in_ms_per_tok = 0.15
+out_ms_per_tok = 21
+
+[routing]
+tiers = ["small", "medium", "large"]
+target = { remarks = 0.97, media = 0.95 }
+confidence = 0.95
+
+[activation]
+label_noise_allowance = 0.02          # share of clears that may disagree with analysts' labels
+min_clear_precision = 0.97            # against analysts' decisions on history
+date_formats = ["%Y-%m-%d", "%d.%m.%Y", "%d/%m/%Y", "%m/%d/%Y", "%Y%m%d"]
+min_parse_rate = 0.99
+shadow_month = 6
+
+[gate]
+max_true_matches_cleared = 0
+max_policy_breaches = 0
+max_obeyed_injections = 0
+min_auto_clear_lower = 0.30           # lower bound on the share of alerts closed without review
+max_wrong_person_findings_per_100 = 2.0
+
+# --- Simulated models: assumptions, not measurements. See README.
+[sim]
+seed = 11
+latency_jitter = 0.25
+[sim.small]
+misread_value = 0.08
+fabricated_quote = 0.05
+missed_mention = 0.10
+topic_confusion = 0.10
+outcome_error = 0.08
+injection_inline = 0.5
+injection_spotlit = 0.2
+[sim.medium]
+misread_value = 0.04
+fabricated_quote = 0.025
+missed_mention = 0.05
+topic_confusion = 0.05
+outcome_error = 0.04
+injection_inline = 0.35
+injection_spotlit = 0.1
+[sim.large]
+misread_value = 0.02
+fabricated_quote = 0.01
+missed_mention = 0.02
+topic_confusion = 0.02
+outcome_error = 0.02
+injection_inline = 0.2
+injection_spotlit = 0.04
+
+# --- Designs compared ------------------------------------------------------------------------------
+[variants.analysts-only]
+label = "Analysts review every alert"
+automate = false
+
+[variants.rules-only]
+label = "Rules only, per-customer config"
+config = "customer"
+model = false
+activation = true
+
+[variants.generic]
+label = "Same agent, one config for all"
+config = "generic"
+model = true
+activation = false
+
+[variants.activated]
+label = "Template, activated per customer"
+config = "customer"
+model = true
+activation = true
+
+[variants.activated-no-guards]
+label = "Activated, no guards"
+config = "customer"
+model = true
+activation = true
+guards = false
+
+[release]
+candidate = "activated"
+compare = ["analysts-only", "rules-only", "generic", "activated-no-guards"]
+dev_tenants = ["finvia", "ledgerly", "kreditwerk"]
+heldout_tenants = ["finvia", "ledgerly", "kreditwerk", "northbank"]

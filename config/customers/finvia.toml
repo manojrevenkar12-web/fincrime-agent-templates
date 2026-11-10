@@ -1,0 +1,21 @@
+# Finvia (neobank, private customers). Written from data/tenants/finvia/dictionary.md and policy.md.
+id = "finvia"
+
+[mapping]
+mode = "explicit"
+segment = "individuals"
+person_path = ""
+given = "first_name"
+surname = "last_name"
+dob = "birth_date"
+dob_format = "%Y-%m-%d"
+pob_city = "birth_place"
+residence_city = "residence"
+nationality = "nationality"
+nationality_code = "alpha2"
+occupation = "occupation"
+
+[policy]
+min_conflicts = 1
+topics = ["fraud", "money_laundering", "terrorism_financing", "sanctions_evasion"]
+lookback_years = 6

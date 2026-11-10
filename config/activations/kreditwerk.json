@@ -1,0 +1,177 @@
+{
+ "theta": 0.5,
+ "live": true,
+ "report": {
+  "customer": "kreditwerk",
+  "mapping": {
+   "people": 1068,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%d.%m.%Y"
+   ],
+   "formats_the_parser_uses": [
+    "%d.%m.%Y"
+   ],
+   "issues": {},
+   "ok": true
+  },
+  "backtest": {
+   "alerts": 782,
+   "confirmed_matches": 56,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.6,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.7,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.8,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.9,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.0,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.2,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.4,
+     "cleared": 197,
+     "auto_clear": 0.2519,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9949,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.6,
+     "cleared": 192,
+     "auto_clear": 0.2455,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9948,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.8,
+     "cleared": 8,
+     "auto_clear": 0.0102,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 137,
+   "cleared": 34,
+   "cleared_confirmed_matches": 0,
+   "clears_analysts_agree_with": 1.0
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": true
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": true,
+  "seconds": 0.21,
+  "config_lines": 20
+ }
+}

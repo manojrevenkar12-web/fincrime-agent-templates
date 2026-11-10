@@ -1,0 +1,65 @@
+{
+ "routing": {
+  "remarks": "large",
+  "media": "large"
+ },
+ "measured": {
+  "remarks": {
+   "target": 0.97,
+   "tiers": [
+    {
+     "tier": "small",
+     "passed": 574,
+     "n": 643,
+     "rate": 0.8927,
+     "lower": 0.8664
+    },
+    {
+     "tier": "medium",
+     "passed": 608,
+     "n": 643,
+     "rate": 0.9456,
+     "lower": 0.9252
+    },
+    {
+     "tier": "large",
+     "passed": 634,
+     "n": 643,
+     "rate": 0.986,
+     "lower": 0.9736
+    }
+   ],
+   "chosen": "large",
+   "meets_target": true
+  },
+  "media": {
+   "target": 0.95,
+   "tiers": [
+    {
+     "tier": "small",
+     "passed": 2611,
+     "n": 3391,
+     "rate": 0.77,
+     "lower": 0.7555
+    },
+    {
+     "tier": "medium",
+     "passed": 2958,
+     "n": 3391,
+     "rate": 0.8723,
+     "lower": 0.8607
+    },
+    {
+     "tier": "large",
+     "passed": 3220,
+     "n": 3391,
+     "rate": 0.9496,
+     "lower": 0.9417
+    }
+   ],
+   "chosen": "large",
+   "meets_target": false
+  }
+ },
+ "how": "development customers' history, one call per item"
+}

@@ -1,0 +1,23 @@
+# Kreditwerk (SME lender, business customers). Written from its dictionary.md and policy.md (German).
+id = "kreditwerk"
+
+[mapping]
+mode = "explicit"
+segment = "businesses"
+company_name = "firma"
+registration = "handelsregister"
+country = "land"
+person_path = "beteiligte"
+role = "rolle"
+given = "vorname"
+surname = "nachname"
+dob = "geburtsdatum"
+dob_format = "%d.%m.%Y"
+pob_city = "geburtsort"
+nationality = "staatsangehoerigkeit"
+nationality_code = "de_adjective"
+
+[policy]
+min_conflicts = 2                 # "zwei harte Merkmale"
+topics = ["fraud", "insolvency", "tax_evasion", "money_laundering"]
+lookback_years = 3

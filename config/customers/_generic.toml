@@ -1,0 +1,11 @@
+# The one-size-fits-all configuration: what a customer gets without an activation. Fields are guessed from
+# common names, dates from common formats, and the policy is a typical default.
+id = "_generic"
+
+[mapping]
+mode = "auto"
+
+[policy]
+min_conflicts = 1
+topics = ["fraud", "money_laundering", "sanctions_evasion", "bribery", "tax_evasion", "insolvency", "terrorism_financing"]
+lookback_years = 10

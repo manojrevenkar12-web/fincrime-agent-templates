@@ -1,0 +1,638 @@
+{
+ "finvia": {
+  "customer": "_generic",
+  "mapping": {
+   "people": 1560,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%Y-%m-%d"
+   ],
+   "formats_the_parser_uses": [
+    "%Y-%m-%d"
+   ],
+   "issues": {},
+   "ok": true
+  },
+  "backtest": {
+   "alerts": 341,
+   "confirmed_matches": 66,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 266,
+     "auto_clear": 0.7801,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.6,
+     "cleared": 266,
+     "auto_clear": 0.7801,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.7,
+     "cleared": 231,
+     "auto_clear": 0.6774,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.8,
+     "cleared": 218,
+     "auto_clear": 0.6393,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.9,
+     "cleared": 202,
+     "auto_clear": 0.5924,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.0,
+     "cleared": 202,
+     "auto_clear": 0.5924,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.2,
+     "cleared": 116,
+     "auto_clear": 0.3402,
+     "cleared_confirmed_matches": 0,
+     "allowance": 2,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.4,
+     "cleared": 86,
+     "auto_clear": 0.2522,
+     "cleared_confirmed_matches": 0,
+     "allowance": 2,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.6,
+     "cleared": 74,
+     "auto_clear": 0.217,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.8,
+     "cleared": 28,
+     "auto_clear": 0.0821,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 86,
+   "cleared": 65,
+   "cleared_confirmed_matches": 1,
+   "clears_analysts_agree_with": 0.9846
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": true
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": true,
+  "seconds": 0.28,
+  "config_lines": 7
+ },
+ "ledgerly": {
+  "customer": "_generic",
+  "mapping": {
+   "people": 1319,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%m/%d/%Y"
+   ],
+   "formats_the_parser_uses": [
+    "%d/%m/%Y",
+    "%m/%d/%Y"
+   ],
+   "issues": {},
+   "ok": false
+  },
+  "backtest": {
+   "alerts": 929,
+   "confirmed_matches": 63,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 771,
+     "auto_clear": 0.8299,
+     "cleared_confirmed_matches": 28,
+     "allowance": 15,
+     "all_hard": false,
+     "precision": 0.9637,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0020-A1",
+      "ledgerly-01-0022-A1",
+      "ledgerly-01-0055-A1",
+      "ledgerly-01-0068-A4",
+      "ledgerly-01-0105-A1",
+      "ledgerly-01-0106-A4",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0010-A2",
+      "ledgerly-02-0020-A3",
+      "ledgerly-02-0107-A1",
+      "ledgerly-03-0023-A1",
+      "ledgerly-03-0028-A2",
+      "ledgerly-03-0039-A1",
+      "ledgerly-03-0048-A1",
+      "ledgerly-03-0068-A1",
+      "ledgerly-03-0080-A5",
+      "ledgerly-03-0080-A6",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-04-0073-A2",
+      "ledgerly-05-0017-A3",
+      "ledgerly-05-0031-A2",
+      "ledgerly-05-0049-A1",
+      "ledgerly-05-0057-A2",
+      "ledgerly-05-0093-A1",
+      "ledgerly-05-0104-A3"
+     ]
+    },
+    {
+     "theta": 0.6,
+     "cleared": 771,
+     "auto_clear": 0.8299,
+     "cleared_confirmed_matches": 28,
+     "allowance": 15,
+     "all_hard": false,
+     "precision": 0.9637,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0020-A1",
+      "ledgerly-01-0022-A1",
+      "ledgerly-01-0055-A1",
+      "ledgerly-01-0068-A4",
+      "ledgerly-01-0105-A1",
+      "ledgerly-01-0106-A4",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0010-A2",
+      "ledgerly-02-0020-A3",
+      "ledgerly-02-0107-A1",
+      "ledgerly-03-0023-A1",
+      "ledgerly-03-0028-A2",
+      "ledgerly-03-0039-A1",
+      "ledgerly-03-0048-A1",
+      "ledgerly-03-0068-A1",
+      "ledgerly-03-0080-A5",
+      "ledgerly-03-0080-A6",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-04-0073-A2",
+      "ledgerly-05-0017-A3",
+      "ledgerly-05-0031-A2",
+      "ledgerly-05-0049-A1",
+      "ledgerly-05-0057-A2",
+      "ledgerly-05-0093-A1",
+      "ledgerly-05-0104-A3"
+     ]
+    },
+    {
+     "theta": 0.7,
+     "cleared": 490,
+     "auto_clear": 0.5274,
+     "cleared_confirmed_matches": 23,
+     "allowance": 10,
+     "all_hard": false,
+     "precision": 0.9531,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0055-A1",
+      "ledgerly-01-0068-A4",
+      "ledgerly-01-0105-A1",
+      "ledgerly-01-0106-A4",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0010-A2",
+      "ledgerly-02-0107-A1",
+      "ledgerly-03-0023-A1",
+      "ledgerly-03-0039-A1",
+      "ledgerly-03-0048-A1",
+      "ledgerly-03-0068-A1",
+      "ledgerly-03-0080-A5",
+      "ledgerly-03-0080-A6",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-04-0073-A2",
+      "ledgerly-05-0017-A3",
+      "ledgerly-05-0031-A2",
+      "ledgerly-05-0049-A1",
+      "ledgerly-05-0057-A2",
+      "ledgerly-05-0104-A3"
+     ]
+    },
+    {
+     "theta": 0.8,
+     "cleared": 482,
+     "auto_clear": 0.5188,
+     "cleared_confirmed_matches": 23,
+     "allowance": 10,
+     "all_hard": false,
+     "precision": 0.9523,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0055-A1",
+      "ledgerly-01-0068-A4",
+      "ledgerly-01-0105-A1",
+      "ledgerly-01-0106-A4",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0010-A2",
+      "ledgerly-02-0107-A1",
+      "ledgerly-03-0023-A1",
+      "ledgerly-03-0039-A1",
+      "ledgerly-03-0048-A1",
+      "ledgerly-03-0068-A1",
+      "ledgerly-03-0080-A5",
+      "ledgerly-03-0080-A6",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-04-0073-A2",
+      "ledgerly-05-0017-A3",
+      "ledgerly-05-0031-A2",
+      "ledgerly-05-0049-A1",
+      "ledgerly-05-0057-A2",
+      "ledgerly-05-0104-A3"
+     ]
+    },
+    {
+     "theta": 0.9,
+     "cleared": 458,
+     "auto_clear": 0.493,
+     "cleared_confirmed_matches": 21,
+     "allowance": 9,
+     "all_hard": true,
+     "precision": 0.9541,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0055-A1",
+      "ledgerly-01-0068-A4",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0010-A2",
+      "ledgerly-02-0107-A1",
+      "ledgerly-03-0039-A1",
+      "ledgerly-03-0048-A1",
+      "ledgerly-03-0068-A1",
+      "ledgerly-03-0080-A5",
+      "ledgerly-03-0080-A6",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-04-0073-A2",
+      "ledgerly-05-0017-A3",
+      "ledgerly-05-0031-A2",
+      "ledgerly-05-0049-A1",
+      "ledgerly-05-0057-A2",
+      "ledgerly-05-0104-A3"
+     ]
+    },
+    {
+     "theta": 1.0,
+     "cleared": 458,
+     "auto_clear": 0.493,
+     "cleared_confirmed_matches": 21,
+     "allowance": 9,
+     "all_hard": true,
+     "precision": 0.9541,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0055-A1",
+      "ledgerly-01-0068-A4",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0010-A2",
+      "ledgerly-02-0107-A1",
+      "ledgerly-03-0039-A1",
+      "ledgerly-03-0048-A1",
+      "ledgerly-03-0068-A1",
+      "ledgerly-03-0080-A5",
+      "ledgerly-03-0080-A6",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-04-0073-A2",
+      "ledgerly-05-0017-A3",
+      "ledgerly-05-0031-A2",
+      "ledgerly-05-0049-A1",
+      "ledgerly-05-0057-A2",
+      "ledgerly-05-0104-A3"
+     ]
+    },
+    {
+     "theta": 1.2,
+     "cleared": 305,
+     "auto_clear": 0.3283,
+     "cleared_confirmed_matches": 5,
+     "allowance": 6,
+     "all_hard": true,
+     "precision": 0.9836,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.4,
+     "cleared": 285,
+     "auto_clear": 0.3068,
+     "cleared_confirmed_matches": 4,
+     "allowance": 6,
+     "all_hard": true,
+     "precision": 0.986,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.6,
+     "cleared": 267,
+     "auto_clear": 0.2874,
+     "cleared_confirmed_matches": 4,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 0.985,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.8,
+     "cleared": 28,
+     "auto_clear": 0.0301,
+     "cleared_confirmed_matches": 1,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 0.9643,
+     "to_confirm": [
+      "ledgerly-02-0007-A2"
+     ]
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 1.2,
+  "shadow": {
+   "alerts": 219,
+   "cleared": 69,
+   "cleared_confirmed_matches": 0,
+   "clears_analysts_agree_with": 1.0
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": false
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": false,
+  "seconds": 0.38,
+  "config_lines": 7
+ },
+ "kreditwerk": {
+  "customer": "_generic",
+  "mapping": {
+   "people": 540,
+   "dob_parse_rate": 0.0,
+   "formats_the_data_allows": [
+    "%d.%m.%Y"
+   ],
+   "formats_the_parser_uses": [
+    "%d.%m.%Y"
+   ],
+   "issues": {
+    "no date of birth": 540
+   },
+   "ok": false
+  },
+  "backtest": {
+   "alerts": 782,
+   "confirmed_matches": 56,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.6,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.7,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.8,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.9,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.2,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.4,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.6,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.8,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 137,
+   "cleared": 0,
+   "cleared_confirmed_matches": 0,
+   "clears_analysts_agree_with": 0.0
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": false
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": false,
+  "seconds": 0.17,
+  "config_lines": 7
+ }
+}

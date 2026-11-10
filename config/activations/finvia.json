@@ -1,0 +1,159 @@
+{
+ "theta": 0.5,
+ "live": true,
+ "report": {
+  "customer": "finvia",
+  "mapping": {
+   "people": 1560,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%Y-%m-%d"
+   ],
+   "formats_the_parser_uses": [
+    "%Y-%m-%d"
+   ],
+   "issues": {},
+   "ok": true
+  },
+  "backtest": {
+   "alerts": 341,
+   "confirmed_matches": 66,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 266,
+     "auto_clear": 0.7801,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.6,
+     "cleared": 266,
+     "auto_clear": 0.7801,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.7,
+     "cleared": 231,
+     "auto_clear": 0.6774,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.8,
+     "cleared": 218,
+     "auto_clear": 0.6393,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.9,
+     "cleared": 202,
+     "auto_clear": 0.5924,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.0,
+     "cleared": 202,
+     "auto_clear": 0.5924,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.2,
+     "cleared": 116,
+     "auto_clear": 0.3402,
+     "cleared_confirmed_matches": 0,
+     "allowance": 2,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.4,
+     "cleared": 86,
+     "auto_clear": 0.2522,
+     "cleared_confirmed_matches": 0,
+     "allowance": 2,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.6,
+     "cleared": 74,
+     "auto_clear": 0.217,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.8,
+     "cleared": 28,
+     "auto_clear": 0.0821,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 86,
+   "cleared": 65,
+   "cleared_confirmed_matches": 1,
+   "clears_analysts_agree_with": 0.9846
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": true
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": true,
+  "seconds": 0.31,
+  "config_lines": 18
+ }
+}

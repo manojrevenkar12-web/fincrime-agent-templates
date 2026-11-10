@@ -1,0 +1,555 @@
+{
+ "finvia": {
+  "customer": "finvia",
+  "mapping": {
+   "people": 1560,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%Y-%m-%d"
+   ],
+   "formats_the_parser_uses": [
+    "%Y-%m-%d"
+   ],
+   "issues": {},
+   "ok": true
+  },
+  "backtest": {
+   "alerts": 341,
+   "confirmed_matches": 66,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 266,
+     "auto_clear": 0.7801,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.6,
+     "cleared": 266,
+     "auto_clear": 0.7801,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.7,
+     "cleared": 231,
+     "auto_clear": 0.6774,
+     "cleared_confirmed_matches": 0,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.8,
+     "cleared": 218,
+     "auto_clear": 0.6393,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 0.9,
+     "cleared": 202,
+     "auto_clear": 0.5924,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.0,
+     "cleared": 202,
+     "auto_clear": 0.5924,
+     "cleared_confirmed_matches": 0,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.2,
+     "cleared": 116,
+     "auto_clear": 0.3402,
+     "cleared_confirmed_matches": 0,
+     "allowance": 2,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.4,
+     "cleared": 86,
+     "auto_clear": 0.2522,
+     "cleared_confirmed_matches": 0,
+     "allowance": 2,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.6,
+     "cleared": 74,
+     "auto_clear": 0.217,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 1.8,
+     "cleared": 28,
+     "auto_clear": 0.0821,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 86,
+   "cleared": 65,
+   "cleared_confirmed_matches": 1,
+   "clears_analysts_agree_with": 0.9846
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": true
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": true,
+  "seconds": 0.31,
+  "config_lines": 18
+ },
+ "ledgerly": {
+  "customer": "ledgerly",
+  "mapping": {
+   "people": 1319,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%m/%d/%Y"
+   ],
+   "formats_the_parser_uses": [
+    "%m/%d/%Y"
+   ],
+   "issues": {},
+   "ok": true
+  },
+  "backtest": {
+   "alerts": 929,
+   "confirmed_matches": 63,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 754,
+     "auto_clear": 0.8116,
+     "cleared_confirmed_matches": 11,
+     "allowance": 15,
+     "all_hard": true,
+     "precision": 0.9854,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0020-A1",
+      "ledgerly-01-0022-A1",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0020-A3",
+      "ledgerly-03-0028-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-05-0093-A1"
+     ]
+    },
+    {
+     "theta": 0.6,
+     "cleared": 754,
+     "auto_clear": 0.8116,
+     "cleared_confirmed_matches": 11,
+     "allowance": 15,
+     "all_hard": true,
+     "precision": 0.9854,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0020-A1",
+      "ledgerly-01-0022-A1",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-02-0020-A3",
+      "ledgerly-03-0028-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2",
+      "ledgerly-05-0093-A1"
+     ]
+    },
+    {
+     "theta": 0.7,
+     "cleared": 473,
+     "auto_clear": 0.5091,
+     "cleared_confirmed_matches": 6,
+     "allowance": 9,
+     "all_hard": true,
+     "precision": 0.9873,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 0.8,
+     "cleared": 465,
+     "auto_clear": 0.5005,
+     "cleared_confirmed_matches": 6,
+     "allowance": 9,
+     "all_hard": true,
+     "precision": 0.9871,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 0.9,
+     "cleared": 443,
+     "auto_clear": 0.4769,
+     "cleared_confirmed_matches": 6,
+     "allowance": 9,
+     "all_hard": true,
+     "precision": 0.9865,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.0,
+     "cleared": 443,
+     "auto_clear": 0.4769,
+     "cleared_confirmed_matches": 6,
+     "allowance": 9,
+     "all_hard": true,
+     "precision": 0.9865,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0100-A1",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.2,
+     "cleared": 305,
+     "auto_clear": 0.3283,
+     "cleared_confirmed_matches": 5,
+     "allowance": 6,
+     "all_hard": true,
+     "precision": 0.9836,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0090-A5",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.4,
+     "cleared": 285,
+     "auto_clear": 0.3068,
+     "cleared_confirmed_matches": 4,
+     "allowance": 6,
+     "all_hard": true,
+     "precision": 0.986,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.6,
+     "cleared": 267,
+     "auto_clear": 0.2874,
+     "cleared_confirmed_matches": 4,
+     "allowance": 5,
+     "all_hard": true,
+     "precision": 0.985,
+     "to_confirm": [
+      "ledgerly-01-0015-A2",
+      "ledgerly-01-0105-A1",
+      "ledgerly-02-0007-A2",
+      "ledgerly-03-0104-A2"
+     ]
+    },
+    {
+     "theta": 1.8,
+     "cleared": 28,
+     "auto_clear": 0.0301,
+     "cleared_confirmed_matches": 1,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 0.9643,
+     "to_confirm": [
+      "ledgerly-02-0007-A2"
+     ]
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 219,
+   "cleared": 181,
+   "cleared_confirmed_matches": 2,
+   "clears_analysts_agree_with": 0.989
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": true
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": true,
+  "seconds": 0.24,
+  "config_lines": 20
+ },
+ "kreditwerk": {
+  "customer": "kreditwerk",
+  "mapping": {
+   "people": 1068,
+   "dob_parse_rate": 1.0,
+   "formats_the_data_allows": [
+    "%d.%m.%Y"
+   ],
+   "formats_the_parser_uses": [
+    "%d.%m.%Y"
+   ],
+   "issues": {},
+   "ok": true
+  },
+  "backtest": {
+   "alerts": 782,
+   "confirmed_matches": 56,
+   "grid": [
+    {
+     "theta": 0.5,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.6,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.7,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.8,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 0.9,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.0,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.2,
+     "cleared": 215,
+     "auto_clear": 0.2749,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9953,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.4,
+     "cleared": 197,
+     "auto_clear": 0.2519,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9949,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.6,
+     "cleared": 192,
+     "auto_clear": 0.2455,
+     "cleared_confirmed_matches": 1,
+     "allowance": 4,
+     "all_hard": true,
+     "precision": 0.9948,
+     "to_confirm": [
+      "kreditwerk-01-0064-A1"
+     ]
+    },
+    {
+     "theta": 1.8,
+     "cleared": 8,
+     "auto_clear": 0.0102,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    },
+    {
+     "theta": 2.0,
+     "cleared": 0,
+     "auto_clear": 0.0,
+     "cleared_confirmed_matches": 0,
+     "allowance": 1,
+     "all_hard": true,
+     "precision": 1.0,
+     "to_confirm": []
+    }
+   ]
+  },
+  "theta": 0.5,
+  "shadow": {
+   "alerts": 137,
+   "cleared": 34,
+   "cleared_confirmed_matches": 0,
+   "clears_analysts_agree_with": 1.0
+  },
+  "gate": [
+   {
+    "check": "mapping parses and the date format is the only one the data allows",
+    "ok": true
+   },
+   {
+    "check": "a threshold meets the match and precision limits",
+    "ok": true
+   },
+   {
+    "check": "shadow month clears no analyst-confirmed match beyond the allowance",
+    "ok": true
+   }
+  ],
+  "live": true,
+  "seconds": 0.21,
+  "config_lines": 20
+ }
+}
